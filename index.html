@@ -1,0 +1,285 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Florida Gulf coast surf conditions: wind, wave height, water temperature and the NWS marine forecast from Pensacola to Naples, straight from NOAA buoys.">
+<meta property="og:title" content="Gulf Surf Desk">
+<meta property="og:description" content="Wind, waves, water temp and the marine forecast for Florida's Gulf coast. No ratings, no ads, every number traceable to a station ID.">
+<meta property="og:image" content="img/aerial.jpg">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='16' fill='%231793ab'/%3E%3Cpath d='M4 20c4-6 8-6 12 0s8 6 12 0' stroke='%23fff' stroke-width='3' fill='none'/%3E%3C/svg%3E">
+<style>:root{box-sizing:border-box}body{margin:0;font:14px system-ui,sans-serif}img{max-width:100%}[hidden]{display:none!important}</style>
+<title>Gulf Surf Desk</title>
+</head>
+<body>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Sans+3:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: a beach-desk. Sand ground, Gulf-aqua ink pulled from the water in the photos, sunset orange for "now".
+   Photos are Nokomis Beach and the Venice jetty (the owner's own); they carry the hero, the Venice spot band, and the footer.
+   Stack: freshness strip → spot rail → four instrument tiles → seas/wind forecast bars → period text → all-spots board → sources. */
+:root{
+  --bg:#f7f1e3; --panel:#fffdf7; --line:#e2d7bf; --fg:#17343d; --muted:#5f6f76;
+  --water:#1793ab; --water-soft:#bfe4ea; --now:#e0702a; --good:#1f7a4d; --warn:#b4610b; --sand:#efe4cc;
+  --display:"Bricolage Grotesque","Trebuchet MS",sans-serif; --body:"Source Sans 3","Segoe UI",system-ui,sans-serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0b1b21; --panel:#132930; --line:#28444c; --fg:#e7eef0; --muted:#95a8ae;
+  --water:#4fcbe0; --water-soft:#1f4f5c; --now:#ffa15a; --good:#5fcf8f; --warn:#f0a850; --sand:#1b343b; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0b1b21; --panel:#132930; --line:#28444c; --fg:#e7eef0; --muted:#95a8ae;
+  --water:#4fcbe0; --water-soft:#1f4f5c; --now:#ffa15a; --good:#5fcf8f; --warn:#f0a850; --sand:#1b343b; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);margin:0;padding-block:18px 56px;padding-inline:16px;line-height:1.45;font-size:15px}
+.wrap{max-width:1040px;margin:0 auto;display:grid;gap:22px}
+.hero{position:relative;border-radius:12px;overflow:hidden;min-height:250px;display:grid;align-items:end;background:var(--sand)}
+.hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 60%}
+.hero .veil{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,30,40,.05) 30%,rgba(10,30,40,.72) 100%)}
+.hero .txt{position:relative;padding:22px 18px 16px;display:grid;gap:8px;color:#fff}
+.hero h1{color:#fff;text-shadow:0 2px 12px rgba(0,0,0,.35)}
+.hero .sub{color:rgba(255,255,255,.92);text-shadow:0 1px 8px rgba(0,0,0,.4)}
+.band{position:relative;border-radius:10px;overflow:hidden;min-height:96px;display:grid;align-items:end;background:linear-gradient(120deg,var(--water-soft),var(--sand))}
+.band img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 45%}
+.band .veil{position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,30,40,0) 20%,rgba(10,30,40,.62) 100%)}
+.band .spothead{position:relative;padding:34px 14px 10px}
+.band[data-photo] .spothead h2,.band[data-photo] .spothead .zone{color:#fff;text-shadow:0 1px 8px rgba(0,0,0,.45)}
+.gallery{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.gallery figure{margin:0;border-radius:10px;overflow:hidden;position:relative;aspect-ratio:4/3;max-width:100%;background:var(--sand)}
+.gallery img{width:100%;height:100%;object-fit:cover;display:block}
+.gallery figcaption{position:absolute;left:0;right:0;bottom:0;padding:22px 12px 8px;font-size:12px;color:#fff;background:linear-gradient(180deg,rgba(10,30,40,0),rgba(10,30,40,.7))}
+@media (max-width:520px){.gallery{grid-template-columns:1fr}.gallery figure{aspect-ratio:16/10}}
+.readme{position:relative;overflow:hidden}
+.readme img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:.16;pointer-events:none}
+.readme .inner{position:relative;display:grid;gap:8px}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(34px,7vw,56px);line-height:.95;margin:0;letter-spacing:-.01em;text-wrap:balance}
+h2{font-family:var(--display);font-weight:500;font-size:15px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 10px}
+p{margin:0;max-width:66ch}
+.sub{color:var(--muted)}
+.fresh{display:flex;flex-wrap:wrap;gap:8px 18px;font-family:var(--mono);font-size:12px;color:var(--muted);align-items:center}
+.fresh b{color:var(--now);font-weight:500}
+.rail{display:flex;gap:8px;overflow-x:auto;padding-bottom:4px;scrollbar-width:thin}
+.rail button{flex:0 0 auto;font:600 14px var(--body);background:var(--panel);color:var(--fg);border:1px solid var(--line);border-radius:999px;padding:8px 14px;cursor:pointer;white-space:nowrap}
+.rail button[aria-pressed="true"]{background:var(--water);color:#fff;border-color:var(--water)}
+.rail button:focus-visible,.spot-note a:focus-visible{outline:2px solid var(--now);outline-offset:2px}
+.spothead{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 16px}
+.spothead h2{margin:0;font-size:clamp(24px,5vw,34px);text-transform:none;letter-spacing:0;color:var(--fg);font-weight:700}
+.spothead .zone{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px}
+.tile{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px 14px 12px;min-width:0;display:grid;grid-template-rows:auto 1fr auto;gap:6px}
+.tile .lbl{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.tile .big{font-family:var(--mono);font-size:34px;font-weight:500;line-height:1.05;font-variant-numeric:tabular-nums;display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.tile .big small{font-size:14px;color:var(--muted);font-family:var(--body);font-weight:400}
+.tile .src{font-size:12px;color:var(--muted);line-height:1.35}
+.tile .src b{font-weight:600;color:var(--fg)}
+.tag{display:inline-block;font-size:11px;font-weight:600;letter-spacing:.04em;padding:2px 8px;border-radius:4px;border:1px solid var(--line);color:var(--muted);vertical-align:middle}
+.tag.on{color:var(--warn);border-color:var(--warn)}
+.tag.off{color:var(--good);border-color:var(--good)}
+.tag.stale{color:var(--now);border-color:var(--now)}
+.arrow{display:inline-block;width:26px;height:26px;vertical-align:-6px}
+.panel{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:14px;min-width:0}
+.chartwrap{overflow-x:auto}
+svg.fc{width:100%;height:auto;display:block;min-width:560px}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:12px;color:var(--muted);margin-top:8px}
+.legend i{display:inline-block;width:14px;height:8px;border-radius:2px;margin-right:6px;vertical-align:0}
+.periods{display:grid;gap:0;margin-top:4px}
+.periods details{border-top:1px solid var(--line)}
+.periods summary{cursor:pointer;padding:9px 0;display:grid;grid-template-columns:8.5em 1fr;gap:10px;align-items:baseline;list-style:none}
+.periods summary::-webkit-details-marker{display:none}
+.periods summary .pn{font-weight:600}
+.periods summary .ps{font-family:var(--mono);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.periods details p{padding:0 0 10px;color:var(--fg);max-width:none;font-size:14px}
+.tscroll{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:13.5px;font-variant-numeric:tabular-nums}
+th,td{text-align:left;padding:7px 9px;border-bottom:1px solid var(--line);white-space:nowrap}
+th{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+td.num{font-family:var(--mono);font-size:13px}
+tr.sel td{background:var(--sand)}
+tr[data-id]{cursor:pointer}
+.note{font-size:13px;color:var(--muted);max-width:72ch}
+a{color:var(--water)}
+.tooltip{position:fixed;pointer-events:none;background:var(--fg);color:var(--bg);font:12px/1.35 var(--body);padding:6px 9px;border-radius:5px;max-width:260px;z-index:9;opacity:0;transition:opacity .12s}
+.tooltip[data-show]{opacity:1}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+
+<div class="wrap">
+  <header class="hero">
+    <img src="img/aerial.jpg" alt="Aerial view of Nokomis Beach, Gulf water on the left, beach pavilions and sea grapes on the right" width="1290" height="930">
+    <div class="veil"></div>
+    <div class="txt">
+      <h1>Gulf Surf Desk</h1>
+      <p class="sub">Florida's Gulf coast, Pensacola to Naples, Siesta Key included. Wind, wave height, water temperature, and the marine forecast, straight from the buoys and the National Weather Service. No star ratings, no ads, every number traceable to a station ID.</p>
+    </div>
+  </header>
+  <div class="fresh" id="fresh"></div>
+
+  <nav class="rail" id="rail" aria-label="Spots, north to south"></nav>
+
+  <section style="display:grid;gap:12px">
+    <div class="band" id="band"><img id="bandImg" alt="" hidden><div class="veil" id="bandVeil" hidden></div><div class="spothead"><h2 id="spotName">–</h2><span class="zone" id="spotZone"></span></div></div>
+    <div class="tiles" id="tiles"></div>
+    <p class="note" id="spotNote"></p>
+  </section>
+
+  <section class="panel">
+    <h2>Forecast · seas and wind by period</h2>
+    <div class="chartwrap"><svg class="fc" id="fc" viewBox="0 0 900 300" role="img" aria-label="Forecast sea height range and wind by period"></svg></div>
+    <div class="legend"><span><i style="background:var(--water)"></i>Seas, forecast range (ft)</span><span><i style="background:var(--water-soft)"></i>"Occasionally to" ceiling</span><span>Arrows point the way the wind blows; number is knots</span></div>
+    <div class="periods" id="periods"></div>
+    <p class="note" id="fcSrc" style="margin-top:10px"></p>
+  </section>
+
+  <section class="panel">
+    <h2>All spots · right now</h2>
+    <div class="tscroll"><table><thead><tr><th>Spot</th><th>Wind</th><th>Shore</th><th>Waves</th><th>Water</th><th>Next 2 days</th></tr></thead><tbody id="board"></tbody></table></div>
+    <p class="note" style="margin-top:8px">Wind from the nearest reporting station; waves and water from the nearest buoy, which on this coast can sit 30 to 100 miles out. Tap a row to load that spot. "Next 2 days" is the highest forecast sea range across the next four periods.</p>
+  </section>
+
+  <section class="panel readme">
+    <img src="img/bluesky.jpg" alt="" width="1600" height="1200">
+    <div class="inner">
+    <h2>How to read it</h2>
+    <p class="note"><b>Seas</b> in a marine forecast are significant wave height: the mean of the highest third of the waves, measured offshore. Beach-face surf is usually smaller than the seas number, and on the Gulf it needs a period of 6 seconds or more before it organizes into rideable lines. <b>Wave Detail</b> is the forecaster's swell breakdown: direction the energy comes from, height, and period.</p>
+    <p class="note"><b>Offshore</b> means the wind is blowing from the land toward the water, which grooms the face; <b>onshore</b> blows from the Gulf onto the beach and crumbles it. The tag is computed from the wind direction against the compass bearing each beach faces.</p>
+    <p class="note">Observations: NOAA National Data Buoy Center (<a href="https://www.ndbc.noaa.gov" target="_blank" rel="noopener">ndbc.noaa.gov</a>) and CO-OPS tide stations (<a href="https://tidesandcurrents.noaa.gov" target="_blank" rel="noopener">tidesandcurrents.noaa.gov</a>). Forecasts: NWS Coastal Waters Forecasts from the Mobile, Tallahassee, Tampa Bay, and Miami offices. Units converted once at build time: m/s to knots, meters to feet, °C to °F.</p>
+    </div>
+  </section>
+
+  <section class="gallery" aria-label="Photos">
+    <figure><img src="img/sunset.jpg" alt="Sunset over the Gulf at Nokomis Beach, swimmers in the water" width="1600" height="1200" loading="lazy"><figcaption>Nokomis Beach, evening. The Gulf goes glassy when the sea breeze dies.</figcaption></figure>
+    <figure><img src="img/boardwalk.jpg" alt="Boardwalk through sea grapes to the beach" width="1000" height="1333" loading="lazy"><figcaption>Beach access through the sea grapes. Photos: Randy Barnhill.</figcaption></figure>
+  </section>
+</div>
+<div class="tooltip" id="tip" role="status"></div>
+
+<script src="data.js"></script>
+<script>
+(function(){
+const D=window.SURF||{obs:{},coops:{},zones:{}};
+const $=id=>document.getElementById(id);
+
+// Spots north to south. facing = compass bearing from the beach out to open water.
+const SPOTS=[
+ {id:'pensacola',name:'Pensacola Beach',lat:30.33,lon:-87.14,facing:190,tz:'America/Chicago',zone:'GMZ655',wind:'42012',waves:'42012',temp:{ndbc:'42012'}},
+ {id:'destin',name:'Destin',lat:30.39,lon:-86.50,facing:185,tz:'America/Chicago',zone:'GMZ751',wind:'42039',waves:'42039',temp:{coops:'8729210'}},
+ {id:'pcb',name:'Panama City Beach',lat:30.18,lon:-85.83,facing:200,tz:'America/Chicago',zone:'GMZ751',wind:'42039',waves:'42039',temp:{coops:'8729210'}},
+ {id:'sgi',name:'St. George Island',lat:29.66,lon:-84.86,facing:170,tz:'America/New_York',zone:'GMZ755',wind:'APCF1',waves:'42039',temp:{coops:'8728690'}},
+ {id:'clearwater',name:'Clearwater Beach',lat:27.98,lon:-82.83,facing:270,tz:'America/New_York',zone:'GMZ853',wind:'CWBF1',waves:'42036',temp:{ndbc:'42036'}},
+ {id:'stpete',name:'St. Pete Beach',lat:27.72,lon:-82.74,facing:265,tz:'America/New_York',zone:'GMZ853',wind:'CWBF1',waves:'42099',temp:{ndbc:'42036'}},
+ {id:'siesta',name:'Siesta Key',lat:27.27,lon:-82.55,facing:250,tz:'America/New_York',zone:'GMZ853',wind:'42013',waves:'42099',temp:{ndbc:'42013'}},
+ {id:'venice',name:'Venice / Nokomis',lat:27.10,lon:-82.46,facing:250,tz:'America/New_York',zone:'GMZ853',wind:'VENF1',waves:'42099',temp:{ndbc:'42013'}},
+ {id:'naples',name:'Naples',lat:26.14,lon:-81.81,facing:265,tz:'America/New_York',zone:'GMZ656',wind:'FMRF1',waves:'42099',temp:{ndbc:'42023'}},
+];
+const PHOTO={siesta:{src:'img/siesta.jpg',alt:'Siesta Key: quartz-white sand, small clean waves, deep blue sky'},venice:{src:'img/jetty.jpg',alt:'Venice jetty rocks with swimmers and the beach beyond'}};
+const STN={
+ '42012':'Buoy 42012 Orange Beach, 44 nm SE of Mobile','42039':'Buoy 42039, 115 nm SE of Pensacola','42036':'Buoy 42036, 112 nm WNW of Tampa',
+ '42013':'COMPS buoy C13, west of Venice','42023':'COMPS buoy C23, west of Naples','42099':'Waverider 42099, west of Sarasota',
+ 'CWBF1':'Clearwater Beach pier','VENF1':'Venice pier','APCF1':'Apalachicola','FMRF1':'Fort Myers'
+};
+const DIRS=['N','NNE','NE','ENE','E','ESE','SE','SSE','S','SSW','SW','WSW','W','WNW','NW','NNW'];
+const NAME2DEG={north:0,northeast:45,east:90,southeast:135,south:180,southwest:225,west:270,northwest:315,n:0,ne:45,e:90,se:135,s:180,sw:225,w:270,nw:315,nne:22.5,ene:67.5,ese:112.5,sse:157.5,ssw:202.5,wsw:247.5,wnw:292.5,nnw:337.5};
+const cardinal=d=>d==null?'–':DIRS[Math.round(((d%360)+360)%360/22.5)%16];
+const fmt=(v,dp=0)=>v==null?'–':Number(v).toFixed(dp);
+const angDiff=(a,b)=>{let d=Math.abs(a-b)%360;return d>180?360-d:d;};
+function shore(windFrom,facing){ if(windFrom==null)return null; const toSea=angDiff(windFrom,facing), toLand=angDiff(windFrom,(facing+180)%360);
+  if(toLand<=60)return 'offshore'; if(toSea<=60)return 'onshore'; return 'side-shore'; }
+function miles(a,b){ if(!b||b.lat==null)return null; const R=3958.8,r=Math.PI/180,dl=(b.lat-a.lat)*r,dn=(b.lon-a.lon)*r;
+  const h=Math.sin(dl/2)**2+Math.cos(a.lat*r)*Math.cos(b.lat*r)*Math.sin(dn/2)**2; return 2*R*Math.asin(Math.sqrt(h)); }
+function ago(iso){ if(!iso)return '–'; const m=Math.round((Date.now()-new Date(iso))/60000); if(m<0)return 'just now'; if(m<60)return m+' min ago'; const h=Math.floor(m/60); return h<48?h+' h '+(m%60)+' min ago':Math.round(h/24)+' days ago'; }
+function stale(iso,hrs=3){ return !iso||(Date.now()-new Date(iso))>hrs*3600e3; }
+function localTime(iso,tz){ if(!iso)return '–'; return new Intl.DateTimeFormat('en-US',{timeZone:tz,weekday:'short',hour:'numeric',minute:'2-digit',timeZoneName:'short'}).format(new Date(iso)); }
+function arrowSvg(fromDeg,cls){ // wind blows toward fromDeg+180
+  if(fromDeg==null)return ''; const to=(fromDeg+180)%360;
+  return `<svg class="arrow ${cls||''}" viewBox="0 0 24 24" aria-hidden="true"><g transform="rotate(${to} 12 12)"><path d="M12 3 L17 12 L13.5 12 L13.5 21 L10.5 21 L10.5 12 L7 12 Z" fill="currentColor"/></g></svg>`; }
+
+// ---- Forecast text parsing (NWS CWF period text) ----
+function parseWind(t){ const m=t.match(/^\s*([A-Za-z]+) winds? (?:around (\d+)|(\d+) to (\d+))\s*(?:knots|kt)/i); if(!m)return null;
+  const dir=NAME2DEG[m[1].toLowerCase()]; const lo=m[2]?+m[2]:+m[3], hi=m[2]?+m[2]:+m[4]; const g=t.match(/gusts up to (\d+)/i);
+  return {dir,dirName:cardinal(dir),lo,hi,gust:g?+g[1]:null}; }
+function parseSeas(t){ const m=t.match(/(?:Seas|Waves)([^.]*)\./i); if(!m)return null; let s=m[1]; let occ=null; const o=s.match(/occasionally to (\d+)/i); if(o){occ=+o[1]; s=s.replace(o[0],'');}
+  const los=[],his=[]; for(const r of s.matchAll(/(\d+) to (\d+) (?:feet|foot|ft)/gi)){los.push(+r[1]);his.push(+r[2]);}
+  for(const r of s.matchAll(/around (\d+) (?:feet|foot|ft)/gi)){los.push(+r[1]);his.push(+r[1]);}
+  for(const r of s.matchAll(/(?:less than |)(\d+) (?:feet|foot|ft) or less/gi)){los.push(0);his.push(+r[1]);}
+  for(const r of s.matchAll(/less than (\d+) (?:feet|foot|ft)(?! or)/gi)){los.push(0);his.push(+r[1]);}
+  if(!his.length)return null; return {lo:Math.min(...los),hi:Math.max(...his),occ}; }
+function parseDetail(t){ const m=t.match(/Wave Detail:([^.]*)\./i); if(!m)return []; const out=[];
+  for(const r of m[1].matchAll(/([A-Za-z]+) (\d+) (?:feet|foot|ft) at (\d+) seconds/gi)) out.push({dir:NAME2DEG[r[1].toLowerCase()],ft:+r[2],s:+r[3]});
+  return out; }
+function shortName(n){ return n.replace(/^Rest Of /i,'').replace(/^(Mon|Tue|Wed|Thu|Fri|Sat|Sun)[a-z]*/i,m=>m.slice(0,3)).replace(/ Night$/i,' night').replace(/^Today$/,'Today'); }
+function periodsFor(zone){ const z=D.zones[zone]; if(!z)return []; return z.periods.map(p=>({name:shortName(p.name),full:p.name,text:p.text,wind:parseWind(p.text),seas:parseSeas(p.text),detail:parseDetail(p.text)})); }
+
+// ---- Render ----
+let sel=SPOTS[0].id;
+try{ const h=location.hash.slice(1); if(SPOTS.some(s=>s.id===h))sel=h; else { const saved=localStorage.getItem('gulf-surf-spot'); if(SPOTS.some(s=>s.id===saved))sel=saved; } }catch(e){}
+
+function obsFor(sp){ const w=D.obs[sp.wind]||{}, v=D.obs[sp.waves]||{}; let temp=null,tempSrc='',tempTime=null;
+  if(sp.temp.coops&&D.coops[sp.temp.coops]){const c=D.coops[sp.temp.coops];temp=c.wtmp_f;tempSrc='CO-OPS '+c.name+' ('+sp.temp.coops+')';tempTime=c.time_local;}
+  else if(sp.temp.ndbc&&D.obs[sp.temp.ndbc]){const c=D.obs[sp.temp.ndbc];temp=c.wtmp_f;tempSrc=STN[sp.temp.ndbc]||sp.temp.ndbc;tempTime=c.time;}
+  return {w,v,temp,tempSrc,tempTime,wdist:miles(sp,w),vdist:miles(sp,v)}; }
+
+function renderFresh(){ const gen=D.generated; const s=stale(gen,4);
+  $('fresh').innerHTML=`<span>Data snapshot <b>${gen?new Date(gen).toLocaleString('en-US',{hour:'numeric',minute:'2-digit',weekday:'short',timeZoneName:'short'}):'–'}</b> · ${ago(gen)}</span>${s?'<span class="tag stale">snapshot older than 4 h</span>':''}<span>Refreshes on a schedule; each tile shows its own observation time.</span>`; }
+
+function renderRail(){ $('rail').innerHTML=SPOTS.map(s=>`<button type="button" data-id="${s.id}" aria-pressed="${s.id===sel}">${s.name}</button>`).join('');
+  $('rail').querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>select(b.dataset.id))); }
+
+function renderSpot(){ const sp=SPOTS.find(s=>s.id===sel); const o=obsFor(sp); const z=D.zones[sp.zone];
+  const ph=PHOTO[sp.id]; const bi=$('bandImg'); if(ph){bi.src=ph.src;bi.alt=ph.alt;bi.hidden=false;$('bandVeil').hidden=false;$('band').setAttribute('data-photo','');}else{bi.hidden=true;bi.removeAttribute('src');$('bandVeil').hidden=true;$('band').removeAttribute('data-photo');}
+  $('spotName').textContent=sp.name; $('spotZone').textContent=sp.zone+(z?' · '+(z.zone_names.find(n=>true)||''):'');
+  const sh=shore(o.w.wdir,sp.facing);
+  const windStale=stale(o.w.time), waveStale=stale(o.v.wave_time||o.v.time), tempStale=o.tempTime?stale(/Z$/.test(o.tempTime)?o.tempTime:o.tempTime.replace(' ','T')+(sp.tz==='America/Chicago'?'-05:00':'-04:00')):true;
+  const tiles=[
+   {lbl:'Wind',big:`${arrowSvg(o.w.wdir)} ${fmt(o.w.wspd_kt)} <small>kt ${cardinal(o.w.wdir)}${o.w.wdir!=null?' '+Math.round(o.w.wdir)+'°':''}</small>`,
+    tag:sh?`<span class="tag ${sh==='onshore'?'on':sh==='offshore'?'off':''}">${sh}</span>`:'', src:`gusts ${fmt(o.w.gst_kt)} kt · <b>${STN[sp.wind]||sp.wind}</b>${o.wdist?', '+fmt(o.wdist)+' mi':''}<br>${localTime(o.w.time,sp.tz)} · ${ago(o.w.time)}`, stale:windStale},
+   {lbl:'Waves',big:`${fmt(o.v.wvht_ft,1)} <small>ft${o.v.dpd_s!=null?' @ '+fmt(o.v.dpd_s)+' s':o.v.apd_s!=null?' · avg '+fmt(o.v.apd_s,1)+' s':''}${o.v.mwd!=null?' from '+cardinal(o.v.mwd):''}</small>`,
+    tag:o.v.wvht_ft==null?'<span class="tag">no wave sensor reporting</span>':'', src:`significant wave height · <b>${STN[sp.waves]||sp.waves}</b>${o.vdist?', '+fmt(o.vdist)+' mi out':''}<br>${localTime(o.v.wave_time||o.v.time,sp.tz)} · ${ago(o.v.wave_time||o.v.time)}`, stale:waveStale},
+   {lbl:'Water',big:`${fmt(o.temp)} <small>°F</small>`, tag:'', src:`<b>${o.tempSrc||'no station'}</b><br>${o.tempTime?(/Z$/.test(o.tempTime)?localTime(o.tempTime,sp.tz):o.tempTime.slice(11)+' local'):'–'}`, stale:tempStale},
+   {lbl:'Air',big:`${fmt(o.w.atmp_f!=null?o.w.atmp_f:o.v.atmp_f)} <small>°F</small>`, tag:'', src:`pressure ${fmt(o.w.pres_hpa||o.v.pres_hpa,1)} hPa · <b>${STN[o.w.atmp_f!=null?sp.wind:sp.waves]||''}</b>`, stale:false},
+  ];
+  $('tiles').innerHTML=tiles.map(t=>`<div class="tile"><div class="lbl">${t.lbl} ${t.tag}${t.stale?' <span class="tag stale">stale</span>':''}</div><div class="big">${t.big}</div><div class="src">${t.src}</div></div>`).join('');
+  $('spotNote').textContent=`Beach faces ${cardinal(sp.facing)} (${sp.facing}°). Offshore wind for this beach comes from the ${cardinal((sp.facing+180)%360)} quadrant.`;
+  renderForecast(sp); }
+
+function renderForecast(sp){ const ps=periodsFor(sp.zone); const z=D.zones[sp.zone]; const svg=$('fc');
+  if(!ps.length){svg.innerHTML='';$('periods').innerHTML='<p class="note">No forecast text loaded for this zone.</p>';return;}
+  const W=900,H=300,L=44,R=12,T=18,B=86; const n=ps.length; const pw=(W-L-R)/n;
+  const maxFt=Math.max(4,...ps.map(p=>p.seas?Math.max(p.seas.hi,p.seas.occ||0):0))+1; const y=v=>T+(H-T-B)*(1-v/maxFt);
+  const css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+  let s='';
+  for(let v=0;v<=maxFt;v++){ s+=`<line x1="${L}" x2="${W-R}" y1="${y(v)}" y2="${y(v)}" stroke="${css('--line')}" stroke-width="1"/><text x="${L-8}" y="${y(v)+4}" text-anchor="end" font-size="12" font-family="${css('--mono')}" fill="${css('--muted')}">${v}${v===maxFt?' ft':''}</text>`; }
+  ps.forEach((p,i)=>{ const x0=L+i*pw, cx=x0+pw/2, bw=Math.min(34,pw*.5);
+    const night=/night|tonight/i.test(p.name); if(night)s+=`<rect x="${x0}" y="${T}" width="${pw}" height="${H-T-B}" fill="${css('--sand')}" opacity=".45"/>`;
+    if(p.seas){ const lo=p.seas.lo, hi=p.seas.hi; const yh=y(hi), yl=y(lo);
+      if(p.seas.occ)s+=`<rect x="${cx-bw/2}" y="${y(p.seas.occ)}" width="${bw}" height="${Math.max(2,yh-y(p.seas.occ))}" fill="${css('--water-soft')}" rx="3"/>`;
+      s+=`<rect x="${cx-bw/2}" y="${yh}" width="${bw}" height="${Math.max(4,yl-yh)}" fill="url(#seaG)" stroke="${css('--water')}" stroke-width="1" rx="3"/>`;
+      s+=`<text x="${cx}" y="${Math.min(yh,y(p.seas.occ||0))-6}" text-anchor="middle" font-size="12" font-family="${css('--mono')}" fill="${css('--fg')}">${lo===hi?lo:lo+'–'+hi}${p.seas.occ?'/'+p.seas.occ:''}</text>`;
+      s+=`<rect class="hit" data-i="${i}" x="${x0}" y="${T}" width="${pw}" height="${H-T-B}" fill="transparent"/>`; }
+    // wind row
+    const wy=H-B+30;
+    if(p.wind){ const to=(p.wind.dir+180)%360; s+=`<g transform="translate(${cx} ${wy}) rotate(${to})"><path d="M0 -9 L5 0 L1.5 0 L1.5 9 L-1.5 9 L-1.5 0 L-5 0 Z" fill="${css('--fg')}"/></g>`;
+      s+=`<text x="${cx}" y="${wy+26}" text-anchor="middle" font-size="12" font-family="${css('--mono')}" fill="${css('--fg')}">${p.wind.lo===p.wind.hi?p.wind.lo:p.wind.lo+'–'+p.wind.hi}</text>`;
+      const sh=shore(p.wind.dir,sp.facing); s+=`<text x="${cx}" y="${wy+40}" text-anchor="middle" font-size="10" font-family="${css('--body')}" fill="${sh==='offshore'?css('--good'):sh==='onshore'?css('--warn'):css('--muted')}">${p.wind.dirName} ${sh==='side-shore'?'side':sh||''}</text>`; }
+    s+=`<text x="${cx}" y="${H-B+14}" text-anchor="middle" font-size="12" font-family="${css('--body')}" fill="${css('--muted')}">${p.name}</text>`; });
+  svg.innerHTML=`<defs><linearGradient id="seaG" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="${css('--water-soft')}"/><stop offset="1" stop-color="${css('--water')}"/></linearGradient></defs>`+s;
+  const tip=$('tip'); svg.querySelectorAll('.hit').forEach(h=>{ const p=ps[+h.dataset.i]; const det=p.detail.length?' · Wave detail: '+p.detail.map(d=>`${cardinal(d.dir)} ${d.ft} ft @ ${d.s} s`).join(', '):'';
+    const show=e=>{tip.textContent=`${p.full}: seas ${p.seas.lo===p.seas.hi?p.seas.lo:p.seas.lo+'–'+p.seas.hi} ft${p.seas.occ?', occasionally '+p.seas.occ:''}${p.wind?' · wind '+p.wind.dirName+' '+p.wind.lo+(p.wind.hi!==p.wind.lo?'–'+p.wind.hi:'')+' kt'+(p.wind.gust?' G'+p.wind.gust:''):''}${det}`; tip.setAttribute('data-show','');
+      const pt=e.touches?e.touches[0]:e; tip.style.left=Math.min(innerWidth-270,pt.clientX+10)+'px'; tip.style.top=(pt.clientY+14)+'px';};
+    h.addEventListener('mousemove',show); h.addEventListener('touchstart',show,{passive:true}); h.addEventListener('mouseleave',()=>tip.removeAttribute('data-show')); h.addEventListener('touchend',()=>setTimeout(()=>tip.removeAttribute('data-show'),1500)); });
+  $('periods').innerHTML=ps.map(p=>`<details><summary><span class="pn">${p.full}</span><span class="ps">${p.wind?p.wind.dirName+' '+p.wind.lo+(p.wind.hi!==p.wind.lo?'–'+p.wind.hi:'')+' kt':'–'} · seas ${p.seas?(p.seas.lo===p.seas.hi?p.seas.lo:p.seas.lo+'–'+p.seas.hi)+' ft':'–'}${p.detail.length?' · '+p.detail.map(d=>cardinal(d.dir)+' '+d.ft+'@'+d.s+'s').join(' + '):''}</span></summary><p>${p.text}</p></details>`).join('');
+  $('fcSrc').textContent=z?`NWS Coastal Waters Forecast ${sp.zone}, ${z.zone_names[0]||''}. Issued ${z.issued}. Night periods shaded.`:''; }
+
+function renderBoard(){ $('board').innerHTML=SPOTS.map(sp=>{ const o=obsFor(sp); const sh=shore(o.w.wdir,sp.facing); const ps=periodsFor(sp.zone).slice(0,4).filter(p=>p.seas);
+  const nx=ps.length?Math.min(...ps.map(p=>p.seas.lo))+'–'+Math.max(...ps.map(p=>p.seas.hi))+' ft':'–';
+  return `<tr data-id="${sp.id}" class="${sp.id===sel?'sel':''}"><td><b>${sp.name}</b></td><td class="num">${cardinal(o.w.wdir)} ${fmt(o.w.wspd_kt)} kt</td><td>${sh?`<span class="tag ${sh==='onshore'?'on':sh==='offshore'?'off':''}">${sh}</span>`:'–'}</td><td class="num">${o.v.wvht_ft!=null?fmt(o.v.wvht_ft,1)+' ft'+(o.v.dpd_s?' @ '+fmt(o.v.dpd_s)+'s':''):'–'}</td><td class="num">${fmt(o.temp)} °F</td><td class="num">${nx}</td></tr>`; }).join('');
+  $('board').querySelectorAll('tr').forEach(r=>r.addEventListener('click',()=>{select(r.dataset.id);document.getElementById('spotName').scrollIntoView({behavior:'smooth',block:'start'});})); }
+
+function select(id){ sel=id; try{localStorage.setItem('gulf-surf-spot',id);}catch(e){} try{history.replaceState(null,'','#'+id);}catch(e){}
+  $('rail').querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.id===id)); renderSpot(); renderBoard(); }
+
+renderFresh(); renderRail(); renderSpot(); renderBoard();
+if(window.matchMedia){ window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change',()=>{renderSpot();}); }
+setInterval(renderFresh,60000);
+})();
+</script>
+
+</body>
+</html>
