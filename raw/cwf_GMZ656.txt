@@ -1,49 +1,47 @@
-GMZ656-657-676-300900-
+GMZ656-657-676-302100-
 Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM-
 Coastal waters from East Cape Sable to Chokoloskee FL out 20 NM-
 Waters from Chokoloskee to Bonita Beach FL from 20 to 60 NM-
-401 PM EDT Tue Sep 29 2026
+401 AM EDT Wed Sep 30 2026
 
-.TONIGHT...SE winds 5 to 10 kt. Seas less than 2 ft or less. Wave
-Detail: SE 1 foot at 2 seconds. Bay and inland waters light chop. A
-chance of tstms. A chance of showers until early morning, then
-showers likely late. 
-.WED...SE winds 5 to 10 kt, increasing to 10 to 15 kt in the
-afternoon. Seas less than 2 ft or less, then around 2 ft in the
-afternoon. Wave Detail: S 2 ft at 4 seconds. Bay and inland waters
-light chop. A chance of showers. 
-.WED NIGHT...E winds 10 to 15 kt. Seas 2 to 3 ft. Wave Detail: E
-3 ft at 4 seconds and SW 1 foot at 5 seconds. Bay and inland waters
-light chop. A chance of tstms. A chance of showers until early
-morning, then showers likely late. 
+.TODAY...SE winds 10 to 15 kt. Seas around 2 ft. Wave Detail: SE
+2 ft at 3 seconds and SW 1 foot at 5 seconds. Bay and inland waters
+light chop. Showers likely with a chance of tstms. 
+.TONIGHT...E winds 10 to 15 kt, increasing to 15 to 20 kt after
+midnight. Seas 2 to 3 ft. Wave Detail: SE 3 ft at 4 seconds and SW
+1 foot at 5 seconds. Bay and inland waters a moderate chop. Showers
+likely in the evening. A chance of tstms. A chance of showers after
+midnight. 
 .THU...E winds 15 to 20 kt with gusts up to 25 kt. Seas 2 to 4 ft,
-occasionally to 5 ft. Wave Detail: SE 4 ft at 4 seconds and SW
-1 foot at 4 seconds. Bay and inland waters a moderate chop. A chance
-of tstms. A chance of showers early in the morning, then showers in
-the late morning and afternoon. 
-.THU NIGHT...E winds 15 to 20 kt with gusts up to 25 kt. Seas 2 to
-4 ft, occasionally to 5 ft. Wave Detail: SE 4 ft at 5 seconds. Bay
-and inland waters a moderate chop. Showers with a chance of tstms
-until early morning, then showers likely late. 
-.FRI...E winds 15 to 20 kt, becoming SE 10 to 15 kt in the
-afternoon. Seas 2 to 4 ft, occasionally to 5 ft. Wave Detail: E 4 ft
-at 4 seconds. Bay and inland waters a moderate chop. A chance of
-tstms. Showers.
+occasionally to 5 ft. Wave Detail: E 4 ft at 4 seconds. Bay and
+inland waters a moderate chop. A chance of showers in the morning. A
+chance of tstms in the late morning and afternoon. Showers likely in
+the afternoon. 
+.THU NIGHT...E winds 15 to 20 kt with gusts up to 25 kt. Seas 3 to
+5 ft, occasionally to 6 ft. Wave Detail: SE 4 ft at 5 seconds. Bay
+and inland waters a moderate chop. Showers likely with a chance of
+tstms. 
+.FRI...SE winds 10 to 15 kt with gusts up to 20 kt. Seas 2 to 4 ft,
+occasionally to 5 ft. Wave Detail: E 3 ft at 4 seconds. Bay and
+inland waters light chop. Showers likely with a chance of tstms. 
 .FRI NIGHT...E winds 10 to 15 kt with gusts up to 20 kt. Seas 2 to
-3 ft. Bay and inland waters light chop. Showers likely early in the
-evening. A chance of tstms until early morning. A chance of showers
-in the late evening and overnight. 
+3 ft. Wave Detail: SE 3 ft at 4 seconds. Bay and inland waters light
+chop. Showers likely early in the evening. A chance of tstms until
+early morning. A chance of showers in the late evening and
+overnight. 
 .SAT...E winds 10 to 15 kt with gusts up to 20 kt. Seas 2 to 3 ft.
-Bay and inland waters light chop. A chance of showers early in the
-morning. A chance of showers and tstms in the afternoon. 
+Bay and inland waters light chop. A chance of showers in the
+morning. A chance of tstms in the late morning and afternoon.
+Showers likely in the afternoon. 
 .SAT NIGHT...E winds 10 to 15 kt. Seas 2 to 3 ft. Bay and inland
-waters light chop. A chance of showers and tstms in the evening. 
-.SUN...E winds 10 to 15 kt, becoming SE 5 to 10 kt in the afternoon.
-Seas 2 to 3 ft. Bay and inland waters light chop. A chance of
-showers and tstms in the afternoon. 
-.SUN NIGHT...E winds 5 to 10 kt. Seas around 2 ft. Bay and inland
-waters light chop. A chance of showers and tstms early in the
-evening.  
+waters light chop. Showers likely early in the evening. A chance of
+tstms until early morning. A chance of showers in the late evening
+and early morning. 
+.SUN...SE winds 10 to 15 kt. Seas 2 to 3 ft. Bay and inland waters
+light chop. A chance of showers and tstms in the afternoon. 
+.SUN NIGHT...SE winds 5 to 10 kt. Seas around 2 ft. Bay and inland
+waters light chop. A chance of showers and tstms until early
+morning.  
 
 Winds and seas higher in and near tstms.
 
