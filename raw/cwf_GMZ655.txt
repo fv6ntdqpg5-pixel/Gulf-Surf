@@ -1,49 +1,42 @@
-GMZ650-655-011215-
+GMZ650-655-012100-
 Coastal waters from Pensacola FL to Pascagoula MS out 20 NM-
 Coastal waters from Okaloosa Walton County Line FL to Pensacola
 FL out 20 NM-
-603 PM CDT Wed Sep 30 2026
+302 AM CDT Thu Oct 1 2026
 
-.TONIGHT...Southeast winds 10 to 15 knots. Seas 2 to 3 feet. Wave
-Detail: Southeast 3 feet at 5 seconds. A slight chance of showers
-and thunderstorms early this evening. A slight chance of showers
-late. 
-.THURSDAY...Southeast winds around 15 knots with gusts up to
-20 knots. Seas 2 to 3 feet. Wave Detail: Southeast 3 feet at
+.TODAY...Southeast winds 10 to 15 knots. Seas 2 to 3 feet. Wave
+Detail: Southeast 3 feet at 5 seconds. A chance of showers with a
+slight chance of thunderstorms. 
+.TONIGHT...Southeast winds 10 to 15 knots with gusts up to
+20 knots. Seas around 3 feet. Wave Detail: Southeast 3 feet at
 5 seconds. A chance of showers. A slight chance of thunderstorms
-in the morning, then a chance of thunderstorms in the afternoon. 
-.THURSDAY NIGHT...Southeast winds around 15 knots with gusts up
-to 20 knots. Seas 3 to 4 feet, occasionally to 5 feet. Wave
-Detail: Southeast 4 feet at 6 seconds. A chance of showers with a
-slight chance of thunderstorms in the evening, then showers
-likely with a chance of thunderstorms after midnight. 
+in the evening, then a chance of thunderstorms after midnight. 
 .FRIDAY...Southeast winds 10 to 15 knots with gusts up to
 20 knots. Seas 3 to 4 feet, occasionally to 5 feet. Wave Detail:
-Southeast 4 feet at 7 seconds. Showers with a chance of
+Southeast 3 feet at 6 seconds. Showers likely. A chance of
 thunderstorms. 
-.FRIDAY NIGHT...Southeast winds around 10 knots. Seas 3 to
-4 feet, occasionally to 5 feet. Wave Detail: Southeast 4 feet at
-7 seconds. A chance of thunderstorms. Showers.
-.SATURDAY...Southeast winds 10 to 15 knots. Seas 3 to 4 feet,
+.FRIDAY NIGHT...Southeast winds 5 to 10 knots. Seas 3 to 4 feet,
 occasionally to 5 feet. Wave Detail: Southeast 4 feet at
-7 seconds. Showers. A chance of thunderstorms in the morning,
-then thunderstorms likely in the afternoon. 
+7 seconds. A chance of thunderstorms. Showers likely. 
+.SATURDAY...Southeast winds 5 to 10 knots. Seas 3 to 4 feet,
+occasionally to 5 feet. Wave Detail: Southeast 4 feet at
+7 seconds. Showers with a chance of thunderstorms. 
 .SATURDAY NIGHT...Southeast winds 5 to 10 knots. Seas around
-3 feet. Wave Detail: Southeast 3 feet at 6 seconds. Showers with
+3 feet. Wave Detail: Southeast 3 feet at 7 seconds. Showers with
 a chance of thunderstorms. 
-.SUNDAY...Southeast winds 5 to 10 knots. Seas 2 to 3 feet. Wave
+.SUNDAY...South winds 5 to 10 knots. Seas 2 to 3 feet. Wave
 Detail: Southeast 3 feet at 6 seconds. Showers with a chance of
 thunderstorms. 
-.SUNDAY NIGHT...East winds 5 to 10 knots. Seas 2 to 3 feet. Wave
-Detail: Southeast 3 feet at 6 seconds. A chance of thunderstorms.
-Showers.
+.SUNDAY NIGHT...North winds 5 to 10 knots. Seas 2 to 3 feet. Wave
+Detail: Southeast 3 feet at 6 seconds. Showers likely with a
+chance of thunderstorms. 
 .MONDAY...Northeast winds 10 to 15 knots. Seas 2 to 3 feet. Wave
-Detail: Southeast 2 feet at 6 seconds. Showers likely with a
-slight chance of thunderstorms. 
-.MONDAY NIGHT...Northeast winds 10 to 15 knots, increasing to
-15 to 20 knots after midnight. Seas 2 to 3 feet. Wave Detail:
-East 3 feet at 5 seconds. A slight chance of thunderstorms. A
-chance of showers. 
+Detail: Northeast 2 feet at 3 seconds and southeast 2 feet at
+6 seconds. Showers likely with a slight chance of thunderstorms. 
+.MONDAY NIGHT...Northeast winds 10 to 15 knots. Seas 2 to 3 feet.
+Wave Detail: Northeast 2 feet at 3 seconds and southeast 2 feet
+at 6 seconds. A chance of showers with a slight chance of
+thunderstorms. 
 
 Winds and seas higher in and near thunderstorms.
 
