@@ -1,4 +1,4 @@
-GMZ730-751-752-755-765-770-772-775-050830-
+GMZ730-751-752-755-765-770-772-775-051315-
 Apalachee Bay or Coastal Waters From Keaton Beach to Ochlockonee
 River FL out to 20 Nm-
 Coastal waters from Mexico Beach to Okaloosa Walton County Line
@@ -11,14 +11,11 @@ Waters from Mexico Beach to Okaloosa Walton County Line FL from
 20 to 60 NM-
 Waters from Apalachicola to Mexico Beach FL from 20 to 60 NM-
 Waters from  Suwannee River to Apalachicola FL from 20 to 60 NM-
-323 PM EDT Sun Oct 4 2026 /223 PM CDT Sun Oct 4 2026/
+809 PM EDT Sun Oct 4 2026 /709 PM CDT Sun Oct 4 2026/
 
-.REST OF TODAY...Southeast winds 5 to 10 knots. Seas around
+.REST OF TONIGHT...Southeast winds 5 to 10 knots. Seas around
 2 feet. Wave Detail: South 2 feet at 6 seconds. Protected waters
-a light chop. Showers with a chance of thunderstorms. 
-.TONIGHT...Southeast winds 5 to 10 knots. Seas around 2 feet.
-Wave Detail: South 2 feet at 6 seconds. Protected waters a light
-chop. A chance of thunderstorms. Showers.
+a light chop. A chance of thunderstorms. Showers.
 .MONDAY...South winds 5 to 10 knots, becoming west in the
 afternoon. Seas around 2 feet. Wave Detail: South 2 feet at
 6 seconds. Protected waters a light chop. A chance of
@@ -38,11 +35,13 @@ Protected waters rough. Showers with a chance of thunderstorms in
 the evening, then showers likely with a slight chance of
 thunderstorms after midnight. 
 .WEDNESDAY...Northeast winds 20 to 25 knots. Seas 4 to 6 feet,
-occasionally to 8 feet. Protected waters rough. A chance of
-showers with a slight chance of thunderstorms. 
-.WEDNESDAY NIGHT...Northeast winds 15 to 20 knots. Seas 3 to
-5 feet, occasionally to 6 feet. Protected waters choppy. A chance
-of showers with a slight chance of thunderstorms. 
+occasionally to 8 feet. Wave Detail: East 5 feet at 5 seconds.
+Protected waters rough. A chance of showers with a slight chance
+of thunderstorms. 
+.WEDNESDAY NIGHT...Northeast winds 15 to 20 knots with gusts up
+to 25 knots. Seas 3 to 5 feet, occasionally to 6 feet. Protected
+waters choppy. A chance of showers with a slight chance of
+thunderstorms. 
 .THURSDAY...Northeast winds 20 to 25 knots. Seas 3 to 5 feet,
 occasionally to 6 feet. Protected waters rough. A chance of
 showers with a slight chance of thunderstorms. 
@@ -50,6 +49,12 @@ showers with a slight chance of thunderstorms.
 occasionally to 6 feet. Protected waters choppy. A chance of
 showers. A slight chance of thunderstorms in the evening, then a
 chance of thunderstorms after midnight. 
+.FRIDAY...East winds 20 to 25 knots. Seas 4 to 6 feet,
+occasionally to 8 feet. Protected waters rough. Showers likely
+with a chance of thunderstorms. 
+.FRIDAY NIGHT...East winds 20 to 25 knots. Seas 4 to 6 feet,
+occasionally to 8 feet. Protected waters rough. Showers with a
+chance of thunderstorms. 
 
 Winds and waves higher in and near thunderstorms.
 
