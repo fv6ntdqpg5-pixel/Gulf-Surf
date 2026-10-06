@@ -1,41 +1,51 @@
-GMZ856-061915-
+GMZ856-070830-
 Coastal waters from Bonita Beach to Englewood FL out 20 NM-
-238 AM EDT Tue Oct 6 2026
+411 PM EDT Tue Oct 6 2026
 
-.TODAY...South winds 5 to 10 knots, becoming southwest late. Seas
-1 foot or less. Wave Detail: South 1 foot at 4 seconds. Bay and
-inland waters light chop. Isolated thunderstorms this morning.
-Scattered showers. Scattered thunderstorms this afternoon. 
 .TONIGHT...South winds 5 to 10 knots. Seas 1 foot or less. Wave
-Detail: Southwest 1 foot at 4 seconds. Bay and inland waters
-light chop. Numerous showers and scattered thunderstorms. 
+Detail: South 1 foot at 4 seconds. Bay and inland waters light
+chop. Scattered thunderstorms. Scattered showers early this
+evening, then numerous showers late this evening and overnight. 
 .WEDNESDAY...Southwest winds 5 to 10 knots. Seas 1 foot or less.
 Wave Detail: Southwest 1 foot at 4 seconds. Bay and inland waters
-light chop. Scattered thunderstorms. Widespread showers. 
-.WEDNESDAY NIGHT...West winds 5 to 10 knots, becoming east after
-midnight. Seas 1 foot or less. Wave Detail: Southwest 1 foot at
-4 seconds. Bay and inland waters light chop. Widespread showers
-and scattered thunderstorms. 
+light chop. Scattered thunderstorms. Showers.
+.WEDNESDAY NIGHT...Northwest winds 5 to 10 knots, becoming east
+after midnight. Seas 1 foot or less. Wave Detail: East 1 foot at
+2 seconds and southwest 1 foot at 3 seconds. Bay and inland
+waters light chop. Showers and scattered thunderstorms in the
+evening, then numerous showers with isolated thunderstorms after
+midnight. 
 .THURSDAY...South winds 5 to 10 knots. Seas 1 foot or less. Wave
 Detail: Southeast 1 foot at 2 seconds and southwest 1 foot at
-4 seconds. Bay and inland waters light chop. Widespread showers
-and scattered thunderstorms. 
-.THURSDAY NIGHT...Southeast winds 5 to 10 knots, becoming east
-after midnight. Seas 1 foot or less, then around 2 feet after
-midnight. Wave Detail: South 1 foot at 4 seconds, becoming
-southeast 1 foot at 3 seconds and southwest 1 foot at 5 seconds.
-Bay and inland waters light chop. Widespread showers and
+4 seconds. Bay and inland waters light chop. Showers and
 scattered thunderstorms. 
-.FRIDAY...Southeast winds 5 to 10 knots. Seas 2 to 3 feet. Bay
-and inland waters light chop. Numerous showers and scattered
-thunderstorms. 
-.FRIDAY NIGHT...Southeast winds 10 to 15 knots. Seas 3 to 5 feet,
-occasionally to 6 feet. Bay and inland waters a moderate chop.
-Scattered thunderstorms. Numerous showers, mainly in the evening.
-.SATURDAY...Southeast winds 10 to 15 knots. Seas 4 to 5 feet,
-occasionally to 6 feet. Bay and inland waters a moderate chop.
-Scattered thunderstorms. Scattered showers in the morning, then
-numerous showers in the afternoon. 
+.THURSDAY NIGHT...South winds 5 to 10 knots, becoming east 10 to
+15 knots after midnight. Seas 1 foot or less, then around 2 feet
+after midnight. Wave Detail: Southwest 1 foot at 4 seconds,
+becoming southeast 1 foot at 3 seconds and southwest 1 foot at
+4 seconds. Bay and inland waters a moderate chop. Showers and
+scattered thunderstorms in the evening, then numerous showers
+after midnight. 
+.FRIDAY...Southeast winds 10 to 15 knots, diminishing to 5 to
+10 knots in the afternoon. Seas around 2 feet. Wave Detail:
+Southeast 2 feet at 3 seconds and southwest 1 foot at 4 seconds.
+Bay and inland waters a moderate chop. Numerous showers. Isolated
+thunderstorms in the morning, then scattered thunderstorms in the
+afternoon. 
+.FRIDAY NIGHT...East winds 10 to 15 knots, increasing to 15 to
+20 knots after midnight. Seas 2 to 3 feet. Bay and inland waters
+choppy. Scattered thunderstorms. Numerous showers, mainly in the
+evening. 
+.SATURDAY...Southeast winds 15 to 20 knots. Seas 2 to 4 feet,
+occasionally to 5 feet. Bay and inland waters choppy. Scattered
+thunderstorms. Scattered showers in the morning, then showers in
+the afternoon. 
+.SATURDAY NIGHT...Southeast winds 15 to 20 knots. Seas 3 to
+4 feet, occasionally to 5 feet. Bay and inland waters choppy.
+Numerous showers and scattered thunderstorms. 
+.SUNDAY...Southeast winds 10 to 15 knots. Seas 2 to 4 feet,
+occasionally to 5 feet. Bay and inland waters a moderate chop.
+Scattered showers and thunderstorms. 
 
 Winds and seas higher in and near thunderstorms.
 
