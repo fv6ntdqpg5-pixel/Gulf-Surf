@@ -1,61 +1,58 @@
-GMZ650-655-081100-
+GMZ650-655-081800-
 Coastal waters from Pensacola FL to Pascagoula MS out 20 NM-
 Coastal waters from Okaloosa Walton County Line FL to Pensacola
 FL out 20 NM-
-524 PM CDT Wed Oct 7 2026
+1202 AM CDT Thu Oct 8 2026
 
-...SMALL CRAFT ADVISORY IN EFFECT UNTIL 11 PM CDT THIS EVENING...
-...HURRICANE WATCH IN EFFECT...
+...HURRICANE WARNING IN EFFECT...
 
-.TONIGHT...Northeast winds 15 to 20 knots with gusts up to
-25 knots. Seas 3 to 4 feet, occasionally to 5 feet. Wave Detail:
-East 4 feet at 7 seconds. 
-.THURSDAY...Northeast winds 15 to 20 knots with gusts up to
-25 knots. Seas 3 to 5 feet, occasionally to 6 feet. Wave Detail:
-East 5 feet at 6 seconds. A slight chance of showers and
-thunderstorms late. 
-.THURSDAY NIGHT...East winds 15 to 20 knots with gusts up to
-30 knots. Seas 3 to 5 feet, occasionally to 6 feet. Wave Detail:
-East 5 feet at 7 seconds. A slight chance of showers in the
-evening. A slight chance of thunderstorms until early morning. A
-chance of showers after midnight. 
-.FRIDAY...Hurricane conditions possible. East winds 25 to
-30 knots with gusts up to 40 knots, increasing to 30 to 40 knots
-with gusts up to 60 knots in the afternoon. Seas 5 to 8 feet,
-occasionally to 10 feet, building to 9 to 13 feet, occasionally
-to 17 feet in the afternoon. Wave Detail: East 12 feet at
-9 seconds. A slight chance of thunderstorms early in the morning.
-A chance of showers in the morning, then showers with a slight
-chance of thunderstorms in the afternoon. 
+.REST OF TONIGHT...Northeast winds 15 to 20 knots with gusts up
+to 25 knots. Seas 3 to 4 feet, occasionally to 5 feet. Wave
+Detail: East 4 feet at 6 seconds. 
+.THURSDAY...Tropical storm conditions possible with hurricane
+conditions also possible. Northeast winds 20 to 25 knots with
+gusts up to 30 knots. Seas 3 to 5 feet, occasionally to 6 feet.
+Wave Detail: East 5 feet at 6 seconds. A slight chance of showers
+and thunderstorms late. 
+.THURSDAY NIGHT...Tropical storm conditions possible with
+hurricane conditions also possible. East winds 20 to 25 knots,
+increasing to 25 to 30 knots after midnight. Seas 3 to 5 feet,
+occasionally to 6 feet. Wave Detail: East 5 feet at 7 seconds. A
+slight chance of showers in the evening. A slight chance of
+thunderstorms until early morning. A chance of showers after
+midnight. 
+.FRIDAY...Tropical storm conditions expected with hurricane
+conditions possible. East winds 25 to 30 knots with gusts up to
+45 knots, increasing to 35 to 45 knots with gusts up to 70 knots
+in the afternoon. Seas 5 to 8 feet, occasionally to 10 feet,
+building to 9 to 13 feet, occasionally to 17 feet in the
+afternoon. Wave Detail: East 12 feet at 9 seconds. A slight
+chance of thunderstorms early in the morning. A chance of showers
+in the morning, then showers with a slight chance of
+thunderstorms in the afternoon. 
 .FRIDAY NIGHT...Hurricane conditions possible. Northeast winds
-75 to 85 knots with gusts up to 105 knots, becoming southwest
-50 to 60 knots with gusts up to 75 knots after midnight. Seas
+70 to 80 knots with gusts up to 100 knots, becoming southeast
+35 to 45 knots with gusts up to 75 knots after midnight. Seas
 17 to 22 feet, occasionally to 28 feet. Wave Detail: Southeast
 22 feet at 13 seconds. Showers with a slight chance of
 thunderstorms early in the evening, then showers with a chance of
 thunderstorms in the late evening and overnight. 
-.SATURDAY...Tropical storm conditions possible. Southeast winds
-25 to 30 knots with gusts up to 40 knots. Seas 9 to 13 feet,
-occasionally to 17 feet, subsiding to 8 to 11 feet, occasionally
-to 14 feet in the afternoon. Wave Detail: Southeast 11 feet at
-10 seconds. Showers. A chance of thunderstorms, mainly in the
-morning. 
+.SATURDAY...Tropical storm conditions possible. 
 .SATURDAY NIGHT...Tropical storm conditions possible. Wave
 Detail: Southeast 9 feet at 8 seconds. A slight chance of
 thunderstorms. 
-.SUNDAY...West winds 10 to 15 knots, becoming southwest 5 to
-10 knots in the afternoon. Seas 3 to 5 feet, occasionally to
-6 feet. Wave Detail: South 5 feet at 7 seconds. A slight chance
-of showers until late afternoon. 
-.SUNDAY NIGHT...Southwest winds 5 to 10 knots, becoming northwest
+.SUNDAY...West winds 10 to 15 knots. Seas 3 to 5 feet,
+occasionally to 6 feet. Wave Detail: South 5 feet at 7 seconds. A
+slight chance of showers until late afternoon. 
+.SUNDAY NIGHT...West winds 5 to 10 knots, becoming northwest
 after midnight. Seas 2 to 3 feet. Wave Detail: South 3 feet at
 6 seconds. 
-.MONDAY...North winds 5 to 10 knots, becoming southeast in the
+.MONDAY...North winds 5 to 10 knots, becoming northwest in the
 afternoon. Seas around 2 feet in the morning, then 1 foot or
 less. Wave Detail: South 2 feet at 5 seconds. 
-.MONDAY NIGHT...Southwest winds around 5 knots, becoming
-northwest after midnight. Seas 1 foot or less. Wave Detail: South
-1 foot at 5 seconds. 
+.MONDAY NIGHT...West winds around 5 knots, becoming northwest
+around 5 knots after midnight. Seas 1 foot or less. Wave Detail:
+South 1 foot at 5 seconds. 
 
 Winds and seas higher in and near thunderstorms.
 
