@@ -1,4 +1,4 @@
-GMZ730-752-755-765-775-091115-
+GMZ730-752-755-765-775-091615-
 Apalachee Bay or Coastal Waters From Keaton Beach to Ochlockonee
 River FL out to 20 Nm-
 Coastal waters from Mexico Beach to Apalachicola FL out 20 NM-
@@ -6,41 +6,41 @@ Coastal Waters From  Ochlockonee River to Apalachicola Fl out to
 20 Nm-
 Coastal waters from  Suwannee River to Keaton Beach FL out 20 NM-
 Waters from  Suwannee River to Apalachicola FL from 20 to 60 NM-
-643 PM EDT Thu Oct 8 2026 /543 PM CDT Thu Oct 8 2026/
+1151 PM EDT Thu Oct 8 2026 /1051 PM CDT Thu Oct 8 2026/
 
 ...TROPICAL STORM WARNING IN EFFECT...
 
-.TONIGHT...Tropical storm conditions possible. East winds 20 to
-25 knots, increasing to 25 to 30 knots after midnight. Seas 3 to
-5 feet, occasionally to 6 feet, building to 5 to 7 feet,
-occasionally to 9 feet after midnight. Wave Detail: East 7 feet
-at 6 seconds. Protected waters very rough. Showers with a slight
-chance of thunderstorms until early morning, then showers likely
-with a chance of thunderstorms late. 
+.REST OF TONIGHT...Tropical storm conditions possible. East winds
+20 to 25 knots with gusts up to 30 knots. Seas 4 to 6 feet,
+occasionally to 8 feet. Wave Detail: East 6 feet at 5 seconds.
+Protected waters rough. Showers likely. A slight chance of
+thunderstorms late this evening, then a chance of thunderstorms
+late. 
 .FRIDAY...Tropical storm conditions expected. East winds 25 to
-30 knots. Seas 7 to 10 feet, occasionally to 13 feet. Wave
-Detail: East 9 feet at 7 seconds and southwest 5 feet at
+30 knots. Seas 5 to 7 feet, occasionally to 9 feet, building to
+7 to 10 feet, occasionally to 13 feet in the afternoon. Wave
+Detail: East 9 feet at 6 seconds and southwest 8 feet at
 13 seconds. Protected waters very rough. Showers with a chance of
 thunderstorms. 
-.FRIDAY NIGHT...Tropical storm conditions expected. East winds
-25 to 30 knots with gusts up to 40 knots. Seas 9 to 12 feet,
-occasionally to 15 feet. Wave Detail: Southwest 11 feet at
-13 seconds and east 9 feet at 7 seconds. Protected waters very
-rough. Showers with a chance of thunderstorms. 
-.SATURDAY...South winds 20 to 25 knots with gusts up to 30 knots.
-Seas 6 to 9 feet, occasionally to 11 feet, subsiding to 5 to
-7 feet, occasionally to 9 feet in the afternoon. Wave Detail:
-Southeast 8 feet at 6 seconds and southwest 7 feet at 10 seconds.
-Protected waters rough. Showers with a chance of thunderstorms. 
-.SATURDAY NIGHT...South winds 15 to 20 knots, diminishing to
-10 to 15 knots after midnight. Seas 4 to 6 feet, occasionally to
-8 feet. Wave Detail: South 6 feet at 7 seconds. Protected waters
-choppy. Showers with a chance of thunderstorms. 
-.SUNDAY...Southwest winds 10 to 15 knots with gusts up to
-20 knots, becoming west 5 to 10 knots in the afternoon. Seas 2 to
-4 feet. Wave Detail: South 4 feet at 7 seconds. Protected waters
-a moderate chop. A chance of thunderstorms in the morning.
-Showers. A slight chance of thunderstorms in the afternoon. 
+.FRIDAY NIGHT...Tropical storm conditions expected. Southeast
+winds 25 to 30 knots with gusts up to 40 knots. Seas 9 to
+12 feet, occasionally to 15 feet. Wave Detail: Southeast 9 feet
+at 7 seconds and southwest 9 feet at 13 seconds. Protected waters
+very rough. Showers with a chance of thunderstorms. 
+.SATURDAY...South winds 25 to 30 knots, diminishing to 20 to
+25 knots in the afternoon. Seas 7 to 10 feet, occasionally to
+13 feet. Wave Detail: South 9 feet at 8 seconds and southwest
+5 feet at 10 seconds. Protected waters very rough. Showers with a
+chance of thunderstorms. 
+.SATURDAY NIGHT...South winds 15 to 20 knots, becoming southwest
+10 to 15 knots after midnight. Seas 5 to 7 feet, occasionally to
+9 feet, subsiding to 3 to 5 feet, occasionally to 6 feet after
+midnight. Wave Detail: Southwest 7 feet at 7 seconds. Protected
+waters choppy. Showers with a chance of thunderstorms. 
+.SUNDAY...West winds 10 to 15 knots. Seas 2 to 4 feet. Wave
+Detail: Southwest 4 feet at 6 seconds. Protected waters a
+moderate chop. A chance of thunderstorms in the morning. Showers.
+A slight chance of thunderstorms in the afternoon. 
 .SUNDAY NIGHT...Northwest winds 5 to 10 knots. Seas 2 to 3 feet.
 Protected waters a light chop. A slight chance of showers and
 thunderstorms early in the evening. 
@@ -48,7 +48,7 @@ thunderstorms early in the evening.
 Protected waters a light chop. 
 .MONDAY NIGHT...Northwest winds 5 to 10 knots. Waves 1 foot or
 less. Protected waters a light chop. 
-.TUESDAY...Northwest winds 5 to 10 knots. Waves 1 foot or less.
+.TUESDAY...North winds 5 to 10 knots. Waves 1 foot or less.
 Protected waters a light chop. 
 .TUESDAY NIGHT...Northwest winds 5 to 10 knots. Waves 1 foot or
 less. Protected waters a light chop. 
