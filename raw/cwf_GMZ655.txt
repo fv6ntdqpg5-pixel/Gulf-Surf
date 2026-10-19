@@ -1,41 +1,36 @@
-GMZ650-655-190900-
+GMZ650-655-192100-
 Coastal waters from Pensacola FL to Pascagoula MS out 20 NM-
 Coastal waters from Okaloosa Walton County Line FL to Pensacola
 FL out 20 NM-
-302 PM CDT Sun Oct 18 2026
+301 AM CDT Mon Oct 19 2026
 
-...SMALL CRAFT ADVISORY IN EFFECT THROUGH MONDAY MORNING...
+...SMALL CRAFT ADVISORY IN EFFECT UNTIL NOON CDT TODAY...
 
-.TONIGHT...Northeast winds 15 to 20 knots, increasing to 20 to
-25 knots late this evening, then becoming east 15 to 20 knots
-after midnight. Seas 4 to 5 feet, occasionally to 6 feet. Wave
-Detail: East 5 feet at 7 seconds. 
-.MONDAY...Northeast winds 15 to 20 knots, diminishing to 10 to
-15 knots in the afternoon. Seas 3 to 5 feet, occasionally to
-6 feet. Wave Detail: East 5 feet at 7 seconds. 
-.MONDAY NIGHT...Northeast winds 10 to 15 knots with gusts up to
+.TODAY...Northeast winds 15 to 20 knots, diminishing to 10 to
+15 knots late. Seas 3 to 5 feet, occasionally to 6 feet. Wave
+Detail: East 4 feet at 6 seconds. 
+.TONIGHT...Northeast winds 10 to 15 knots with gusts up to
 20 knots. Seas 2 to 4 feet, occasionally to 5 feet. Wave Detail:
 East 4 feet at 7 seconds. 
 .TUESDAY...Northeast winds 10 to 15 knots with gusts up to
+20 knots. Seas 2 to 4 feet, occasionally to 5 feet. Wave Detail:
+East 3 feet at 6 seconds. 
+.TUESDAY NIGHT...Northeast winds 10 to 15 knots with gusts up to
 20 knots. Seas 2 to 3 feet. Wave Detail: East 3 feet at
 6 seconds. 
-.TUESDAY NIGHT...Northeast winds 10 to 15 knots with gusts up to
-20 knots. Seas 2 to 3 feet. Wave Detail: East 2 feet at
-5 seconds. 
 .WEDNESDAY...Northeast winds 10 to 15 knots, diminishing to 5 to
 10 knots in the afternoon. Seas 2 to 3 feet. Wave Detail: East
 2 feet at 5 seconds. 
 .WEDNESDAY NIGHT...Northeast winds 5 to 10 knots. Seas around
-2 feet. Wave Detail: East 2 feet at 5 seconds. 
+2 feet. Wave Detail: Southeast 2 feet at 6 seconds. 
 .THURSDAY...Northeast winds 5 to 10 knots. Seas around 2 feet.
-Wave Detail: East 2 feet at 5 seconds. 
+Wave Detail: East 2 feet at 5 seconds and south 1 foot at
+6 seconds. 
 .THURSDAY NIGHT...North winds 5 to 10 knots. Seas 1 foot or less.
-Wave Detail: Southeast 1 foot at 5 seconds. 
-.FRIDAY...Northeast winds 5 to 10 knots. Seas 1 foot or less.
-Wave Detail: Northeast 1 foot at 2 seconds and southeast 1 foot
-at 5 seconds. 
-.FRIDAY NIGHT...Northeast winds 10 to 15 knots, becoming east
-15 to 20 knots after midnight. Seas 2 to 4 feet, occasionally to
-5 feet. Wave Detail: East 4 feet at 5 seconds.
+Wave Detail: East 1 foot at 4 seconds. 
+.FRIDAY...Northeast winds 10 to 15 knots. Seas around 2 feet.
+Wave Detail: Northeast 2 feet at 3 seconds. 
+.FRIDAY NIGHT...East winds 15 to 20 knots. Seas 3 to 5 feet,
+occasionally to 6 feet. Wave Detail: East 5 feet at 5 seconds.
 
 $$
