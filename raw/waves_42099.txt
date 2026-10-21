@@ -1,1 +1,1 @@
-2026 10 20 20 56  MM   MM   MM   1.0     6   4.2  26     MM    MM  28.2    MM   MM   MM    MM
+2026 10 20 23 56  MM   MM   MM   1.1     6   4.2  25     MM    MM  28.1    MM   MM   MM    MM
