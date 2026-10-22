@@ -1,4 +1,4 @@
-GMZ751-752-755-770-772-775-220200-
+GMZ751-752-755-770-772-775-221315-
 Coastal waters from Mexico Beach to Okaloosa Walton County Line
 FL out 20 NM-
 Coastal waters from Mexico Beach to Apalachicola FL out 20 NM-
@@ -8,12 +8,12 @@ Waters from Mexico Beach to Okaloosa Walton County Line FL from
 20 to 60 NM-
 Waters from Apalachicola to Mexico Beach FL from 20 to 60 NM-
 Waters from  Suwannee River to Apalachicola FL from 20 to 60 NM-
-326 PM EDT Wed Oct 21 2026 /226 PM CDT Wed Oct 21 2026/
+839 PM EDT Wed Oct 21 2026 /739 PM CDT Wed Oct 21 2026/
 
-.TONIGHT...Northeast winds 5 to 10 knots, increasing to 10 to
-15 knots late this evening and overnight. Seas around 2 feet.
-Wave Detail: Northeast 2 feet at 4 seconds. Protected waters a
-moderate chop. 
+.REST OF TONIGHT...Northeast winds 5 to 10 knots, increasing to
+10 to 15 knots late this evening and overnight. Seas around
+2 feet. Wave Detail: Northeast 2 feet at 4 seconds. Protected
+waters a moderate chop. 
 .THURSDAY...Northeast winds 10 to 15 knots, diminishing to 5 to
 10 knots in the afternoon. Seas around 2 feet. Wave Detail:
 Northeast 2 feet at 4 seconds. Protected waters a moderate chop. 
@@ -30,9 +30,10 @@ rough.
 .SATURDAY...Northeast winds 20 to 25 knots with gusts up to
 30 knots. Seas 4 to 6 feet, occasionally to 8 feet. Wave Detail:
 East 5 feet at 6 seconds. Protected waters rough. 
-.SATURDAY NIGHT AND SUNDAY...Northeast winds 25 to 30 knots. Seas
-6 to 9 feet, occasionally to 11 feet. Protected waters very 
-rough.
+.SATURDAY NIGHT...Northeast winds 25 to 30 knots. Seas 6 to
+9 feet, occasionally to 11 feet. Protected waters very rough. 
+.SUNDAY...Northeast winds 25 to 30 knots. Seas 6 to 9 feet,
+occasionally to 11 feet. Protected waters very rough. 
 .SUNDAY NIGHT...Northeast winds 25 to 30 knots. Seas 5 to 8 feet,
 occasionally to 10 feet. Protected waters very rough. 
 .MONDAY...Northeast winds 25 to 30 knots, diminishing to 20 to
