@@ -1,43 +1,50 @@
-GMZ650-655-302100-
+GMZ650-655-311215-
 Coastal waters from Pensacola FL to Pascagoula MS out 20 NM-
 Coastal waters from Okaloosa Walton County Line FL to Pensacola
 FL out 20 NM-
-302 AM CDT Fri Oct 30 2026
+611 PM CDT Fri Oct 30 2026
 
-.TODAY...East winds 10 to 15 knots, diminishing to 5 to 10 knots
-late. Seas 2 to 3 feet. Wave Detail: East 3 feet at 5 seconds. 
-.TONIGHT...East winds 5 to 10 knots, increasing to 10 to 15 knots
-after midnight. Seas 2 to 3 feet. Wave Detail: Southeast 3 feet
-at 6 seconds. 
+.TONIGHT...East winds 5 to 10 knots, increasing to 15 to
+20 knots. Seas 2 to 3 feet. Wave Detail: Southeast 3 feet at
+6 seconds. 
 .SATURDAY...East winds 15 to 20 knots with gusts up to 25 knots.
-Seas 2 to 4 feet, occasionally to 5 feet. Wave Detail: Southeast
-4 feet at 6 seconds. A chance of showers with a slight chance of
-thunderstorms in the afternoon. 
-.SATURDAY NIGHT...East winds 10 to 15 knots, increasing to 15 to
-20 knots after midnight. Seas 3 to 4 feet, occasionally to
-5 feet, building to 4 to 6 feet, occasionally to 8 feet after
-midnight. Wave Detail: Southeast 4 feet at 7 seconds, becoming
-southeast 5 feet at 7 seconds. A slight chance of thunderstorms.
-A chance of showers in the evening, then showers likely after
-midnight. 
+Seas 3 to 4 feet, occasionally to 5 feet. Wave Detail: Southeast
+4 feet at 5 seconds. A slight chance of showers. A slight chance
+of thunderstorms in the afternoon. 
+.SATURDAY NIGHT...East winds 15 to 20 knots, increasing to 20 to
+25 knots after midnight. Seas 4 to 6 feet, occasionally to
+8 feet. Wave Detail: Southeast 6 feet at 7 seconds. A slight
+chance of showers and thunderstorms in the evening, then a chance
+of showers and thunderstorms after midnight. 
 .SUNDAY...East winds 20 to 25 knots with gusts up to 30 knots.
 Seas 5 to 7 feet, occasionally to 9 feet. Wave Detail: Southeast
-7 feet at 7 seconds. Showers likely, mainly in the morning. 
+6 feet at 7 seconds. Showers likely with a slight chance of
+thunderstorms. 
 .SUNDAY NIGHT...East winds 15 to 20 knots with gusts up to
-25 knots. Seas 5 to 7 feet, occasionally to 9 feet. Wave Detail:
-Southeast 6 feet at 7 seconds. 
-.MONDAY...East winds 15 to 20 knots. Seas 4 to 6 feet,
-occasionally to 8 feet. Wave Detail: East 5 feet at 7 seconds. 
-.MONDAY NIGHT...East winds 10 to 15 knots. Seas 2 to 4 feet,
-occasionally to 5 feet. Wave Detail: East 4 feet at 6 seconds. 
-.TUESDAY...East winds 15 to 20 knots, diminishing to 10 to
-15 knots in the afternoon. Seas 2 to 4 feet, occasionally to
-5 feet. Wave Detail: East 4 feet at 5 seconds. A slight chance of
-showers in the afternoon. 
+25 knots. Seas 4 to 6 feet, occasionally to 8 feet. Wave Detail:
+Southeast 6 feet at 7 seconds. A chance of showers, mainly in the
+evening. 
+.MONDAY...East winds 15 to 20 knots with gusts up to 25 knots.
+Seas 4 to 6 feet, occasionally to 8 feet. Wave Detail: East
+5 feet at 7 seconds. 
+.MONDAY NIGHT...East winds 15 to 20 knots. Seas 3 to 5 feet,
+occasionally to 6 feet. Wave Detail: Southeast 5 feet at
+6 seconds. 
+.TUESDAY...East winds 15 to 20 knots. Seas 3 to 4 feet,
+occasionally to 5 feet. Wave Detail: East 4 feet at 6 seconds. A
+slight chance of showers in the afternoon. 
 .TUESDAY NIGHT...Southeast winds 10 to 15 knots. Seas 2 to
-3 feet. Wave Detail: East 3 feet at 5 seconds. A slight chance of
-thunderstorms. A slight chance of showers in the evening, then a
-chance of showers after midnight. 
+4 feet, occasionally to 5 feet. Wave Detail: Southeast 4 feet at
+6 seconds. A slight chance of thunderstorms. A slight chance of
+showers in the evening, then a chance of showers after midnight. 
+.WEDNESDAY...South winds 10 to 15 knots, becoming southwest in
+the afternoon. Seas 2 to 3 feet. Wave Detail: Southeast 2 feet at
+4 seconds. Showers likely with a slight chance of thunderstorms
+in the morning, then a chance of showers and thunderstorms in the
+afternoon. 
+.WEDNESDAY NIGHT...West winds around 10 knots. Seas around
+2 feet. Wave Detail: South 2 feet at 4 seconds. A slight chance
+of showers. 
 
 Winds and seas higher in and near thunderstorms.
 
