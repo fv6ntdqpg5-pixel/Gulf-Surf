@@ -1,34 +1,37 @@
-GMZ856-040330-
+GMZ856-040815-
 Coastal waters from Bonita Beach to Englewood FL out 20 NM-
-1004 AM EST Tue Nov 3 2026
+258 PM EST Tue Nov 3 2026
 
-.REST OF TODAY...East winds 10 to 15 knots with gusts up to
-20 knots, becoming southeast 5 to 10 knots this afternoon. Seas
-around 2 feet. Wave Detail: Southeast 2 feet at 5 seconds. Bay
-and inland waters a moderate chop. Scattered showers and
-thunderstorms this afternoon. 
 .TONIGHT...East winds around 10 knots. Seas around 2 feet. Wave
-Detail: Southeast 1 foot at 4 seconds. Bay and inland waters
-light chop. Isolated showers and thunderstorms in the evening. 
-.WEDNESDAY...East winds 5 to 10 knots, becoming southwest in the
-afternoon. Seas 1 foot or less. Wave Detail: East 1 foot at
-3 seconds. Bay and inland waters light chop. Isolated showers and
-thunderstorms in the afternoon. 
-.WEDNESDAY NIGHT...Northeast winds around 5 knots. Seas 1 foot or
+Detail: East 1 foot at 4 seconds. Bay and inland waters light
+chop. Scattered showers and thunderstorms early this evening,
+then isolated showers and thunderstorms late this evening.
+Isolated showers late. 
+.WEDNESDAY...East winds 5 to 10 knots. Seas 1 foot or less. Wave
+Detail: East 1 foot at 3 seconds. Bay and inland waters light
+chop. Isolated showers in the morning, then scattered showers
+with isolated thunderstorms in the afternoon. 
+.WEDNESDAY NIGHT...Northeast winds 5 to 10 knots. Seas 1 foot or
 less. Wave Detail: East 1 foot at 3 seconds. Bay and inland
-waters smooth. Isolated showers and thunderstorms in the evening.
+waters light chop. Scattered showers with isolated thunderstorms
+in the evening. 
 .THURSDAY...East winds 5 to 10 knots, becoming north in the
 afternoon. Seas 1 foot or less. Wave Detail: East 1 foot at
 2 seconds. Bay and inland waters light chop. 
 .THURSDAY NIGHT...North winds 5 to 10 knots, becoming east after
-midnight. Seas 1 foot or less. Wave Detail: Northeast 1 foot at
+midnight. Seas 1 foot or less. Wave Detail: North 1 foot at
 2 seconds. Bay and inland waters light chop. 
-.FRIDAY...East winds around 5 knots, becoming northwest in the
-afternoon. Seas 1 foot or less. Bay and inland waters light chop.
+.FRIDAY...Northeast winds around 5 knots, becoming northwest in
+the afternoon. Seas 1 foot or less. Wave Detail: Northeast 1 foot
+at 2 seconds. Bay and inland waters light chop. 
 .FRIDAY NIGHT...North winds 5 to 10 knots. Seas 1 foot or less.
 Bay and inland waters light chop. 
-.SATURDAY...Northeast winds around 5 knots, becoming northwest in
-the afternoon. Seas 1 foot or less. Bay and inland waters smooth.
+.SATURDAY...North winds 5 to 10 knots. Seas 1 foot or less. Bay
+and inland waters light chop. 
+.SATURDAY NIGHT...North winds around 10 knots. Seas 1 foot or
+less. Bay and inland waters light chop. 
+.SUNDAY...North winds 5 to 10 knots, becoming northwest in the
+afternoon. Seas 1 foot or less. Bay and inland waters light chop.
 
 Winds and seas higher in and near thunderstorms.
 
