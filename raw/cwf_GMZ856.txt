@@ -1,13 +1,10 @@
-GMZ856-050815-
+GMZ856-051415-
 Coastal waters from Bonita Beach to Englewood FL out 20 NM-
-227 PM EST Wed Nov 4 2026
+832 PM EST Wed Nov 4 2026
 
-.THIS AFTERNOON...Southeast winds around 5 knots. Seas 1 foot or
-less. Wave Detail: Southeast 1 foot at 3 seconds. Bay and inland
-waters smooth. Isolated showers and thunderstorms. 
-.TONIGHT...East winds 5 to 10 knots. Seas 1 foot or less. Wave
-Detail: Southeast 1 foot at 3 seconds. Bay and inland waters
-light chop. Isolated showers in the evening. 
+.REST OF TONIGHT...East winds 5 to 10 knots. Seas 1 foot or less.
+Wave Detail: Southeast 1 foot at 3 seconds. Bay and inland waters
+light chop. Isolated showers early this evening. 
 .THURSDAY...East winds 5 to 10 knots, becoming north in the
 afternoon. Seas 1 foot or less. Wave Detail: East 1 foot at
 2 seconds. Bay and inland waters light chop. 
@@ -21,13 +18,15 @@ chop.
 Wave Detail: Northwest 1 foot at 2 seconds. Bay and inland waters
 light chop. 
 .SATURDAY...North winds 5 to 10 knots, becoming northwest 10 to
-15 knots in the afternoon. Seas 1 foot or less. Bay and inland
-waters a moderate chop. 
+15 knots in the afternoon. Seas 1 foot or less. Wave Detail:
+North 1 foot at 2 seconds. Bay and inland waters a moderate chop.
 .SATURDAY NIGHT...North winds 10 to 15 knots. Seas around 2 feet.
 Bay and inland waters a moderate chop. 
 .SUNDAY...Northeast winds 5 to 10 knots. Seas around 2 feet. Bay
 and inland waters light chop. 
-
-Winds and seas higher in and near thunderstorms.
+.SUNDAY NIGHT...Northeast winds 10 to 15 knots. Seas around
+2 feet. Bay and inland waters a moderate chop. 
+.MONDAY...East winds 10 to 15 knots. Seas around 2 feet. Bay and
+inland waters a moderate chop.
 
 $$
