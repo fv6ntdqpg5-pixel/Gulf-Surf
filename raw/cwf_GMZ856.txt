@@ -1,31 +1,39 @@
-GMZ856-080415-
+GMZ856-080815-
 Coastal waters from Bonita Beach to Englewood FL out 20 NM-
-1008 AM EST Sat Nov 7 2026
+234 PM EST Sat Nov 7 2026
 
-.THIS AFTERNOON...North winds 5 to 10 knots, becoming northwest
-10 to 15 knots late. Seas 1 foot or less. Wave Detail: North
-1 foot at 2 seconds. Bay and inland waters a moderate chop. 
-.TONIGHT...North winds 10 to 15 knots. Seas around 2 feet. Wave
-Detail: Northwest 2 feet at 4 seconds. Bay and inland waters a
-moderate chop. 
+.TONIGHT...North winds 10 to 15 knots, becoming northeast late.
+Seas around 2 feet. Wave Detail: North 2 feet at 4 seconds. Bay
+and inland waters a moderate chop. 
 .SUNDAY...Northeast winds 5 to 10 knots, becoming north in the
 afternoon. Seas around 2 feet. Wave Detail: North 2 feet at
 4 seconds. Bay and inland waters light chop. 
-.SUNDAY NIGHT...Northeast winds 10 to 15 knots. Seas around
-2 feet. Wave Detail: Northwest 2 feet at 5 seconds and northeast
-1 foot at 2 seconds. Bay and inland waters a moderate chop. 
-.MONDAY...Northeast winds 5 to 10 knots. Seas around 2 feet in
-the morning, then 1 foot or less. Wave Detail: North 1 foot at
-4 seconds. Bay and inland waters light chop. 
-.MONDAY NIGHT...Northeast winds 10 to 15 knots, becoming east
-after midnight. Seas around 2 feet. Wave Detail: North 1 foot at
-4 seconds. Bay and inland waters a moderate chop. 
-.TUESDAY...East winds 10 to 15 knots, becoming northeast 5 to
+.SUNDAY NIGHT...North winds 10 to 15 knots. Seas around 2 feet.
+Wave Detail: North 2 feet at 3 seconds. Bay and inland waters a
+moderate chop. 
+.MONDAY...Northeast winds 5 to 10 knots, becoming north in the
+afternoon. Seas 1 foot or less. Wave Detail: North 1 foot at
+3 seconds. Bay and inland waters light chop. 
+.MONDAY NIGHT...North winds around 10 knots, becoming east after
+midnight. Seas 1 foot or less, then around 2 feet after midnight.
+Wave Detail: North 1 foot at 3 seconds, becoming northeast 1 foot
+at 3 seconds and northwest 1 foot at 4 seconds. Bay and inland
+waters a moderate chop. 
+.TUESDAY...East winds 10 to 15 knots, diminishing to 5 to
 10 knots in the afternoon. Seas around 2 feet in the morning,
-then 1 foot or less. Bay and inland waters a moderate chop. 
+then 1 foot or less. Wave Detail: East 1 foot at 3 seconds and
+northwest 1 foot at 4 seconds. Bay and inland waters a moderate
+chop. 
 .TUESDAY NIGHT...North winds 5 to 10 knots, becoming east after
 midnight. Seas 1 foot or less. Bay and inland waters light chop. 
-.WEDNESDAY...East winds 5 to 10 knots, becoming northwest in the
-afternoon. Seas 1 foot or less. Bay and inland waters light chop.
+.WEDNESDAY...East winds around 5 knots, becoming southwest in the
+afternoon. Seas 1 foot or less. Bay and inland waters smooth. 
+.WEDNESDAY NIGHT...Northwest winds 5 to 10 knots. Seas 1 foot or
+less. Bay and inland waters light chop. Isolated showers after
+midnight. 
+.THURSDAY...Southwest winds 5 to 10 knots, becoming west 10 to
+15 knots in the afternoon. Seas 1 foot or less, then around
+2 feet in the afternoon. Bay and inland waters a moderate chop.
+Scattered showers.
 
 $$
