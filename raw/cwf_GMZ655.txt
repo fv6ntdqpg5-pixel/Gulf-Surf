@@ -1,36 +1,37 @@
-GMZ650-655-090000-
+GMZ650-655-091200-
 Coastal waters from Pensacola FL to Pascagoula MS out 20 NM-
 Coastal waters from Okaloosa Walton County Line FL to Pensacola
 FL out 20 NM-
-533 AM CST Sun Nov 8 2026
+507 PM CST Sun Nov 8 2026
 
-.TODAY...North winds 10 to 15 knots, diminishing to 5 to 10 knots
-late this morning and afternoon. Seas around 2 feet this morning,
-then 1 foot or less. Wave Detail: North 1 foot at 3 seconds,
-becoming northeast 1 foot at 3 seconds. 
 .TONIGHT...North winds 5 to 10 knots. Seas 1 foot or less. Wave
 Detail: Northeast 1 foot at 2 seconds. 
-.MONDAY...Northeast winds 10 to 15 knots, becoming north 5 to
-10 knots in the afternoon. Seas around 2 feet in the morning,
-then 1 foot or less. Wave Detail: Northeast 1 foot at 3 seconds. 
-.MONDAY NIGHT...North winds 5 to 10 knots. Seas 1 foot or less.
-Wave Detail: Northeast 1 foot at 3 seconds. 
-.TUESDAY...Northeast winds 5 to 10 knots, diminishing to around
-5 knots in the afternoon. Seas 1 foot or less. Wave Detail:
-Northeast 1 foot at 2 seconds. 
+.MONDAY...North winds 5 to 10 knots. Seas 1 foot or less. Wave
+Detail: Northeast 1 foot at 3 seconds. 
+.MONDAY NIGHT...North winds around 5 knots, becoming northeast
+after midnight. Seas 1 foot or less. Wave Detail: Northeast
+1 foot at 3 seconds. 
+.TUESDAY...Northeast winds 5 to 10 knots, becoming east in the
+afternoon. Seas 1 foot or less. Wave Detail: Northeast 1 foot at
+2 seconds. 
 .TUESDAY NIGHT...Northwest winds around 5 knots. Seas 1 foot or
 less. 
-.WEDNESDAY...North winds around 5 knots, becoming west in the
+.WEDNESDAY...Northwest winds around 5 knots, becoming west in the
 afternoon. Seas 1 foot or less. 
 .WEDNESDAY NIGHT...West winds 5 to 10 knots, increasing to 10 to
-15 knots after midnight. Seas 1 foot or less, then around 2 feet
-after midnight. Wave Detail: West 1 foot at 2 seconds, becoming
-west 2 feet at 3 seconds. 
-.THURSDAY...West winds 10 to 15 knots, increasing to 15 to
-20 knots in the afternoon. Seas 2 to 3 feet. Wave Detail: West
-3 feet at 5 seconds. A slight chance of showers in the morning. 
+15 knots with gusts up to 20 knots after midnight. Seas 1 foot or
+less, then around 2 feet after midnight. Wave Detail: West 1 foot
+at 2 seconds, becoming west 2 feet at 4 seconds. 
+.THURSDAY...West winds 15 to 20 knots. Seas 2 to 4 feet,
+occasionally to 5 feet. Wave Detail: West 3 feet at 4 seconds. 
 .THURSDAY NIGHT...Northwest winds 20 to 25 knots, becoming north
-15 to 20 knots after midnight. Seas 2 to 4 feet, occasionally to
-5 feet. Wave Detail: West 3 feet at 5 seconds.
+15 to 20 knots after midnight. Seas 3 to 5 feet, occasionally to
+6 feet. Wave Detail: Northwest 3 feet at 5 seconds. 
+.FRIDAY...Northwest winds 15 to 20 knots. Seas 2 to 4 feet,
+occasionally to 5 feet. Wave Detail: Northwest 3 feet at
+5 seconds. 
+.FRIDAY NIGHT...North winds 15 to 20 knots. Seas 2 to 4 feet,
+occasionally to 5 feet. Wave Detail: Northwest 3 feet at
+4 seconds.
 
 $$
