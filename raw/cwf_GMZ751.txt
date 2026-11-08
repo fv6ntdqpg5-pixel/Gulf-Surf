@@ -1,25 +1,22 @@
-GMZ751-752-770-772-081000-
+GMZ751-752-770-772-082030-
 Coastal waters from Mexico Beach to Okaloosa Walton County Line
 FL out 20 NM-
 Coastal waters from Mexico Beach to Apalachicola FL out 20 NM-
 Waters from Mexico Beach to Okaloosa Walton County Line FL from
 20 to 60 NM-
 Waters from Apalachicola to Mexico Beach FL from 20 to 60 NM-
-638 PM CST Sat Nov 7 2026
+138 AM CST Sun Nov 8 2026
 
-.REST OF TONIGHT...North winds 10 to 15 knots. Seas around
-2 feet. Wave Detail: North 2 feet at 4 seconds. Protected waters
-a moderate chop. 
-.SUNDAY...North winds 5 to 10 knots. Seas around 2 feet in the
-morning, then 1 foot or less. Wave Detail: North 2 feet at
-3 seconds, becoming northwest 1 foot at 4 seconds. Protected
+.TODAY...North winds 5 to 10 knots. Seas around 2 feet this
+morning, then 1 foot or less. Wave Detail: North 1 foot at
+4 seconds. Protected waters a light chop. 
+.TONIGHT...North winds 5 to 10 knots. Waves 1 foot or less. Wave
+Detail: Northwest 1 foot at 3 seconds. Protected waters a light
+chop. 
+.MONDAY...Northeast winds 5 to 10 knots. Seas around 2 feet in
+the morning, then 1 foot or less. Wave Detail: North 1 foot at
+3 seconds, becoming northeast 1 foot at 3 seconds. Protected
 waters a light chop. 
-.SUNDAY NIGHT...North winds 5 to 10 knots, increasing to 10 to
-15 knots after midnight. Waves 1 foot or less. Wave Detail:
-Northwest 1 foot at 3 seconds. Protected waters a moderate chop. 
-.MONDAY...Northeast winds 10 to 15 knots, diminishing to 5 to
-10 knots in the afternoon. Seas 1 to 2 feet. Wave Detail: North
-1 foot at 3 seconds. Protected waters a moderate chop. 
 .MONDAY NIGHT...North winds 5 to 10 knots. Waves 1 foot or less.
 Wave Detail: North 1 foot at 3 seconds. Protected waters a light
 chop. 
@@ -27,19 +24,22 @@ chop.
 5 knots in the afternoon. Waves 1 foot or less. Wave Detail:
 Northeast 1 foot at 3 seconds. Protected waters a light chop. 
 .TUESDAY NIGHT...North winds around 5 knots. Waves 1 foot or
-less. Protected waters smooth. 
-.WEDNESDAY...North winds around 5 knots. Waves 1 foot or less.
-Protected waters smooth. 
+less. Wave Detail: Northeast 1 foot at 3 seconds. Protected
+waters smooth. 
+.WEDNESDAY...North winds 5 to 10 knots, becoming northwest in the
+afternoon. Waves 1 foot or less. Protected waters a light chop. 
 .WEDNESDAY NIGHT...West winds 5 to 10 knots, increasing to 10 to
 15 knots after midnight. Waves 1 foot or less, then around 2 feet
-after midnight. Protected waters a moderate chop. A slight chance
-of showers after midnight. 
-.THURSDAY...West winds around 15 knots, increasing to 20 to
+after midnight. Protected waters a moderate chop. 
+.THURSDAY...West winds 15 to 20 knots, increasing to 20 to
 25 knots in the afternoon. Seas 2 to 3 feet, building to 4 to
 6 feet, occasionally to 8 feet in the afternoon. Protected waters
-rough. A chance of showers, mainly in the morning. 
+rough. A slight chance of thunderstorms in the morning. A slight
+chance of showers. 
 .THURSDAY NIGHT...Northwest winds 20 to 25 knots. Seas 5 to
-8 feet, occasionally to 10 feet. Protected waters rough. A slight
-chance of showers.
+7 feet, occasionally to 9 feet. Protected waters rough. A slight
+chance of showers in the evening. 
+
+Winds and waves higher in and near thunderstorms.
 
 $$
