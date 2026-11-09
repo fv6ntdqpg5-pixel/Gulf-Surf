@@ -1,15 +1,12 @@
-GMZ853-091400-
+GMZ853-100400-
 Coastal waters from Englewood to Tarpon Springs FL out 20 NM-
-800 PM EST Sun Nov 8 2026
+1000 AM EST Mon Nov 9 2026
 
-.TONIGHT...North winds 5 to 10 knots. Seas 1 foot or less. Wave
-Detail: North 1 foot at 4 seconds. Bay and inland waters light
-chop. 
-.MONDAY...Northeast winds 5 to 10 knots, becoming north in the
-afternoon. Seas 1 foot or less. Wave Detail: North 1 foot at
+.THIS AFTERNOON...North winds around 5 knots, becoming northwest
+late. Seas 1 foot or less. Wave Detail: North 1 foot at
 4 seconds. Bay and inland waters light chop. 
-.MONDAY NIGHT...North winds around 10 knots, becoming northeast
-after midnight. Seas 1 foot or less. Wave Detail: North 1 foot at
+.TONIGHT...North winds 5 to 10 knots, becoming northeast after
+midnight. Seas 1 foot or less. Wave Detail: North 1 foot at
 3 seconds. Bay and inland waters light chop. 
 .TUESDAY...East winds 5 to 10 knots, becoming south in the
 afternoon. Seas 1 foot or less. Wave Detail: East 1 foot at
@@ -17,25 +14,23 @@ afternoon. Seas 1 foot or less. Wave Detail: East 1 foot at
 light chop. 
 .TUESDAY NIGHT...Northwest winds around 5 knots, becoming
 northeast after midnight. Seas 1 foot or less. Wave Detail: East
-1 foot at 3 seconds. Bay and inland waters smooth. 
+1 foot at 2 seconds. Bay and inland waters smooth. 
 .WEDNESDAY...East winds around 5 knots, becoming west in the
-afternoon. Seas 1 foot or less. Wave Detail: East 1 foot at
-3 seconds. Bay and inland waters smooth. Isolated showers and
-thunderstorms in the afternoon. 
-.WEDNESDAY NIGHT...West winds 5 to 10 knots. Seas 1 foot or less.
-Bay and inland waters light chop. Isolated thunderstorms.
-Isolated showers in the evening, then scattered showers after
-midnight. 
+afternoon. Seas 1 foot or less. Wave Detail: Northwest 1 foot at
+2 seconds and northeast 1 foot at 2 seconds. Bay and inland
+waters light chop. A slight chance of showers. 
+.WEDNESDAY NIGHT...Northwest winds 5 to 10 knots. Seas 1 foot or
+less. Wave Detail: Northwest 1 foot at 3 seconds. Bay and inland
+waters light chop. A slight chance of showers after midnight. 
 .THURSDAY...West winds 10 to 15 knots, increasing to 15 to
 20 knots in the afternoon. Seas 2 to 4 feet, occasionally to
-5 feet. Bay and inland waters choppy. Scattered showers with
-isolated thunderstorms. 
-.THURSDAY NIGHT...West winds 20 to 25 knots. Seas 5 to 7 feet,
-occasionally to 9 feet. Bay and inland waters rough. Scattered
-showers. 
+5 feet. Bay and inland waters choppy. A chance of showers. 
+.THURSDAY NIGHT...Northwest winds 20 to 25 knots. Seas 5 to
+7 feet, occasionally to 9 feet. Bay and inland waters rough.
+Isolated thunderstorms in the evening. Scattered showers. 
 .FRIDAY...Northwest winds 20 to 25 knots, increasing to 25 to
-30 knots in the afternoon. Seas 6 to 9 feet, occasionally to
-11 feet. Bay and inland waters very rough. 
+30 knots in the afternoon. Seas 5 to 8 feet, occasionally to
+10 feet. Bay and inland waters very rough. 
 
 Winds and seas higher in and near thunderstorms.
 
