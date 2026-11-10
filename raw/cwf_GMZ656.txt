@@ -1,39 +1,32 @@
-GMZ656-657-676-100500-
+GMZ656-657-676-102000-
 Coastal waters from Chokoloskee to Bonita Beach FL out 20 NM-
 Coastal waters from East Cape Sable to Chokoloskee FL out 20 NM-
 Waters from Chokoloskee to Bonita Beach FL from 20 to 60 NM-
-1121 AM EST Mon Nov 9 2026
+241 AM EST Tue Nov 10 2026
 
-.TONIGHT...NE winds 5 to 10 kt. Seas less than 2 ft or less. Wave
-Detail: N 1 foot at 3 seconds. Bay and inland waters light chop. 
-.TUE...E winds 5 to 10 kt. Seas less than 2 ft or less. Wave Detail:
-E 1 foot at 3 seconds and NW 1 foot at 4 seconds. Bay and inland
-waters light chop. 
-.TUE NIGHT...E winds 5 to 10 kt. Seas less than 2 ft or less. Wave
-Detail: E 1 foot at 2 seconds. Bay and inland waters light chop. 
-.WED...E winds 5 to 10 kt, becoming S in the afternoon. Seas less
-than 2 ft or less. Wave Detail: SE 1 foot at 3 seconds. Bay and
-inland waters light chop. 
-.WED NIGHT...SW winds around 5 kt, increasing to 5 to 10 kt after
-midnight. Seas less than 2 ft or less. Bay and inland waters light
-chop. 
-.THU...W winds 5 to 10 kt, increasing to 10 to 15 kt with gusts up
-to 20 kt in the afternoon. Seas less than 2 ft or less, then 2 to
-3 ft in the afternoon. Wave Detail: W 2 ft at 4 seconds. Bay and
-inland waters a moderate chop. A chance of showers. 
-.THU NIGHT...W winds 10 to 15 kt, increasing to 15 to 20 kt after
-midnight. Seas 2 to 4 ft, occasionally to 5 ft. Bay and inland
-waters choppy in exposed areas. A chance of showers. 
-.FRI...NW winds 15 to 20 kt, increasing to 20 to 25 kt with gusts up
-to 30 kt in the afternoon. Seas 4 to 6 ft, occasionally to 8 ft. Bay
-and inland waters a moderate chop. A chance of showers early in the
-morning. 
-.FRI NIGHT...NW winds 20 to 25 kt, becoming N 15 to 20 kt after
-midnight. Seas 4 to 6 ft, occasionally to 8 ft. Bay and inland
-waters a moderate chop. 
-.SAT...N winds 15 to 20 kt with gusts up to 25 kt. Seas 3 to 5 ft,
+.TODAY...SE winds 5 to 10 kt. Seas less than 2 ft or less. Wave
+Detail: E 1 foot at 2 seconds and NW 1 foot at 4 seconds. Bay and
+inland waters light chop. A slight chance of showers late. 
+.TONIGHT...E winds around 5 kt. Seas less than 2 ft or less. Wave
+Detail: SE 1 foot at 2 seconds. Bay and inland waters smooth. 
+.WED...E winds around 5 kt, becoming S in the afternoon. Seas less
+than 2 ft or less. Bay and inland waters smooth. 
+.WED NIGHT...SW winds around 5 kt. Seas less than 2 ft or less. Bay
+and inland waters smooth. A chance of showers after midnight. 
+.THU...W winds 5 to 10 kt. Seas less than 2 ft or less. Wave Detail:
+W 1 foot at 2 seconds. Bay and inland waters light chop. A chance of
+showers. 
+.THU NIGHT...NW winds 5 to 10 kt, increasing to 15 to 20 kt after
+midnight. Seas less than 2 ft or less, then 2 to 3 ft after
+midnight. Wave Detail: NW 3 ft at 4 seconds. Bay and inland waters
+choppy in exposed areas. 
+.FRI...NW winds 15 to 20 kt with gusts up to 25 kt. Seas 3 to 5 ft,
 occasionally to 6 ft. Bay and inland waters a moderate chop. 
-.SAT NIGHT...N winds 15 to 20 kt. Seas 2 to 4 ft, occasionally to
-5 ft. Bay and inland waters a moderate chop.
+.FRI NIGHT...N winds 15 to 20 kt with gusts up to 25 kt. Seas 3 to
+5 ft, occasionally to 6 ft. Bay and inland waters a moderate chop. 
+.SAT...N winds 15 to 20 kt. Seas 2 to 4 ft, occasionally to 5 ft.
+Bay and inland waters a moderate chop. 
+.SAT NIGHT...NE winds 10 to 15 kt with gusts up to 20 kt. Seas 2 to
+4 ft, occasionally to 5 ft. Bay and inland waters light chop.
 
 $$
