@@ -1,36 +1,43 @@
-GMZ856-112200-
+GMZ856-120300-
 Coastal waters from Bonita Beach to Englewood FL out 20 NM-
-1131 AM EST Wed Nov 11 2026
+300 PM EST Wed Nov 11 2026
 
-.THIS AFTERNOON...Winds becoming southwest 5 to 10 knots early 
-this afternoon, then becoming west late. Seas 1 foot or less. Bay 
-and inland waters smooth. A slight chance of showers afternoon. 
-.TONIGHT...North winds 5 to 10 knots. Seas 1 foot or less. Wave
-Detail: Northwest 1 foot at 2 seconds. Bay and inland waters
-light chop. A chance of showers, mainly in the evening. 
+.TONIGHT...Northwest winds around 5 knots. Seas 1 foot or less.
+Wave Detail: South 1 foot at 3 seconds. Bay and inland waters
+smooth. A slight chance of thunderstorms early this evening. 
+A chance of showers this evening, then a slight chance of showers
+after midnight. 
 .THURSDAY...Northwest winds 5 to 10 knots. Seas 1 foot or less.
 Wave Detail: Northwest 1 foot at 3 seconds. Bay and inland waters
 light chop. A chance of showers, mainly in the morning. 
 .THURSDAY NIGHT...Northwest winds 5 to 10 knots, increasing to
 10 to 15 knots with gusts up to 20 knots after midnight. Seas
-1 foot or less, then 2 to 3 feet after midnight. Wave Detail:
+1 foot or less, then around 2 feet after midnight. Wave Detail:
 Northwest 1 foot at 2 seconds, becoming northwest 2 feet at
 4 seconds. Bay and inland waters a moderate chop. A chance of
 showers after midnight. 
 .FRIDAY...North winds 15 to 20 knots. Seas 2 to 4 feet,
-occasionally to 5 feet. Wave Detail: Northwest 3 feet at
-5 seconds. Bay and inland waters choppy. 
-.FRIDAY NIGHT...North winds 15 to 20 knots. Seas 3 to 4 feet,
 occasionally to 5 feet. Wave Detail: Northwest 4 feet at
-6 seconds and north 1 foot at 2 seconds. Bay and inland waters
+5 seconds. Bay and inland waters choppy. 
+.FRIDAY NIGHT...North winds 15 to 20 knots. Seas 2 to 4 feet,
+occasionally to 5 feet. Wave Detail: Northwest 4 feet at
+6 seconds and north 1 foot at 3 seconds. Bay and inland waters
 choppy. 
 .SATURDAY...North winds 15 to 20 knots, diminishing to 10 to
 15 knots in the afternoon. Seas 2 to 4 feet, occasionally to
-5 feet. Bay and inland waters choppy. 
-.SATURDAY NIGHT...Northeast winds 15 to 20 knots. Seas 2 to
-3 feet. Bay and inland waters choppy. 
-.SUNDAY...Northeast winds 15 to 20 knots, diminishing to 10 to
-15 knots in the afternoon. Seas 2 to 3 feet. Bay and inland
-waters choppy.
+5 feet. Wave Detail: North 3 feet at 4 seconds. Bay and inland
+waters choppy. 
+.SATURDAY NIGHT...Northeast winds around 15 knots. Seas 2 to
+3 feet. Bay and inland waters a moderate chop. 
+.SUNDAY...Northeast winds around 15 knots, , diminishing to 10 to 
+15 knots in the afternoon. Seas 2 to 3 feet. Bay and inland waters 
+a moderate chop. 
+.SUNDAY NIGHT...East winds 15 to 20 knots. Seas 2 to 3 feet. Bay
+and inland waters choppy. 
+.MONDAY...East winds 15 to 20 knots. Seas 2 to 3 feet. Bay and
+inland waters choppy. A slight chance of showers in the
+afternoon. 
+
+Winds and seas higher in and near thunderstorms.
 
 $$
