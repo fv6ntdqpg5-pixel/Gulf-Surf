@@ -1,12 +1,7 @@
 #STN       LAT      LON  YYYY MM DD hh mm WDIR WSPD   GST WVHT  DPD APD MWD   PRES  PTDY  ATMP  WTMP  DEWP  VIS   TIDE
 #text      deg      deg   yr mo day hr mn degT  m/s   m/s   m   sec sec degT   hPa   hPa  degC  degC  degC  nmi     ft
-42012    30.061  -87.547 2026 11 17 02 30  50  13.0  15.0   MM  MM   MM  MM 1025.5    MM  16.0  22.7   9.6   MM     MM
-42013    27.173  -82.924 2026 11 17 01 35  70  11.0  14.0   MM  MM   MM  MM 1022.1    MM    MM  24.5    MM   MM     MM
-42023    26.010  -83.086 2026 11 17 01 35  90  11.0  14.0   MM  MM   MM  MM 1020.5    MM  25.1  26.2  19.3   MM     MM
-42036    28.500  -84.505 2026 11 17 02 30  70  14.0  17.0   MM  MM   MM  MM 1022.8    MM  20.6  25.6  18.1   MM     MM
-42039    28.768  -86.024 2026 11 17 02 30  60  12.0  15.0   MM  MM   MM  MM 1022.4    MM  21.0    MM  18.8   MM     MM
-42099    27.352  -84.275 2026 11 17 02 26  MM    MM    MM  1.9   6  4.5  30     MM    MM    MM  26.5    MM   MM     MM
-APCF1    29.724  -84.980 2026 11 17 02 18  60   6.2   9.3   MM  MM   MM  MM 1025.8    MM    MM  16.9    MM   MM     MM
-CWBF1    27.978  -82.832 2026 11 17 02 18  70   6.7   9.3   MM  MM   MM  MM 1024.2    MM    MM  20.1    MM   MM     MM
-FMRF1    26.647  -81.871 2026 11 17 02 18  50   5.1   7.2   MM  MM   MM  MM 1023.3    MM    MM  21.9    MM   MM     MM
-VENF1    27.072  -82.453 2026 11 17 02 30  50   6.7  10.8   MM  MM   MM  MM 1022.8    MM  19.7    MM  16.5   MM     MM
+42013    27.173  -82.924 2026 11 17 11 35  80  11.0  13.0   MM  MM   MM  MM 1020.8    MM    MM  24.4    MM   MM     MM
+42099    27.352  -84.275 2026 11 17 12 26  MM    MM    MM  3.5   8  6.4  68     MM    MM    MM  26.7    MM   MM     MM
+APCF1    29.724  -84.980 2026 11 17 12 18  70   6.7   9.3   MM  MM   MM  MM 1026.1    MM    MM    MM    MM   MM     MM
+CWBF1    27.978  -82.832 2026 11 17 12 18  40   4.6   7.2   MM  MM   MM  MM 1023.7    MM    MM    MM    MM   MM     MM
+FMRF1    26.647  -81.871 2026 11 17 12 18  70   3.6   5.7   MM  MM   MM  MM 1022.3    MM    MM    MM    MM   MM     MM
