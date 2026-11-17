@@ -1,43 +1,47 @@
-GMZ853-172230-
+GMZ853-180830-
 Coastal waters from Englewood to Tarpon Springs FL out 20 NM-
-432 AM EST Tue Nov 17 2026
+250 PM EST Tue Nov 17 2026
 
 ...SMALL CRAFT ADVISORY IN EFFECT THROUGH FRIDAY MORNING...
 
-.TODAY...East winds 20 to 25 knots, increasing to 25 to 30 knots
-this afternoon. Seas 3 to 5 feet, occasionally to 6 feet. Wave
-Detail: Northeast 4 feet at 5 seconds. Bay and inland waters very
-rough. Showers likely. 
 .TONIGHT...East winds 20 to 25 knots with gusts up to 30 knots.
-Seas 3 to 5 feet, occasionally to 6 feet. Wave Detail: East
-4 feet at 5 seconds and north 1 foot at 5 seconds. Bay and inland
-waters rough. Showers likely. 
-.WEDNESDAY...East winds 20 to 25 knots. Seas 2 to 4 feet,
-occasionally to 5 feet. Wave Detail: Southeast 3 feet at
-5 seconds and north 1 foot at 5 seconds. Bay and inland waters
-rough. A chance of showers. A slight chance of thunderstorms in
-the afternoon. 
-.WEDNESDAY NIGHT...East winds 20 to 25 knots. Seas 2 to 4 feet,
-occasionally to 5 feet. Wave Detail: Southeast 3 feet at
-5 seconds and north 1 foot at 5 seconds. Bay and inland waters
-rough. A chance of showers, mainly in the evening. 
-.THURSDAY...East winds 15 to 20 knots with gusts up to 25 knots.
-Seas 2 to 4 feet, occasionally to 5 feet. Wave Detail: Southeast
-3 feet at 5 seconds and north 1 foot at 5 seconds. Bay and inland
-waters choppy. A slight chance of showers. 
-.THURSDAY NIGHT...East winds 15 to 20 knots. Seas 2 to 3 feet.
-Wave Detail: Southeast 3 feet at 5 seconds. Bay and inland waters
-choppy. A slight chance of showers after midnight. 
-.FRIDAY...Northeast winds 10 to 15 knots. Seas 2 to 3 feet. Bay
-and inland waters a moderate chop. A slight chance of showers in
-the morning, then a chance of showers with a slight chance of
-thunderstorms in the afternoon. 
-.FRIDAY NIGHT...Northeast winds 10 to 15 knots. Seas around
-2 feet. Bay and inland waters a moderate chop. A slight chance of
-thunderstorms in the evening. A chance of showers. 
-.SATURDAY...Northeast winds around 10 knots, becoming north in
-the afternoon. Seas around 2 feet. Bay and inland waters light
-chop. A slight chance of showers. 
+Seas 4 to 6 feet, occasionally to 8 feet. Wave Detail: Northeast
+4 feet at 5 seconds. Bay and inland waters rough. A slight chance
+of thunderstorms. 
+.WEDNESDAY...East winds 20 to 25 knots. Seas 4 to 6 feet,
+occasionally to 8 feet. Wave Detail: Northeast 4 feet at
+5 seconds. Bay and inland waters rough. A chance of showers with
+a slight chance of thunderstorms. 
+.WEDNESDAY NIGHT...East winds 20 to 25 knots. Seas 3 to 5 feet,
+occasionally to 6 feet. Wave Detail: Northeast 4 feet at
+5 seconds. Bay and inland waters rough. A chance of showers with
+a slight chance of thunderstorms. 
+.THURSDAY...East winds around 20 knots with gusts up to 25 knots.
+Seas 3 to 5 feet, occasionally to 6 feet. Wave Detail: Northeast 
+3 feet at 5 seconds. Bay and inland waters choppy. A slight chance
+of thunderstorms. A slight chance of showers in the morning, then
+a chance of showers in the afternoon. 
+.THURSDAY NIGHT...Northeast winds around 20 knots. Seas 3 to 4 
+feet, occasionally to 5 feet. Wave Detail: Northeast 3 feet at 5 
+seconds. Bay and inland waters choppy. A slight chance of showers 
+and thunderstorms. 
+.FRIDAY...Northeast winds 10 to 15 knots with gusts up to
+20 knots. Seas 3 to 4 feet, occasionally to 5 feet. Wave Detail:
+Northeast 2 feet at 4 seconds. Bay and inland waters a moderate
+chop. A slight chance of thunderstorms. A slight chance of
+showers in the morning, then a chance of showers in the
+afternoon. 
+.FRIDAY NIGHT...Northeast winds 10 to 15 knots with gusts up to
+20 knots. Seas 2 to 3 feet. Bay and inland waters a moderate
+chop. Scattered showers. 
+.SATURDAY...Northeast winds around 10 knots. Seas around 2 feet.
+Bay and inland waters light chop. Scattered showers. 
+.SATURDAY NIGHT...North winds 5 to 10 knots. Seas 1 foot or less.
+Bay and inland waters light chop. Isolated showers in the
+evening. 
+.SUNDAY...North winds 5 to 10 knots, becoming northwest in the
+afternoon. Seas 1 foot or less, then around 2 feet in the
+afternoon. Bay and inland waters light chop. 
 
 Winds and seas higher in and near thunderstorms.
 
