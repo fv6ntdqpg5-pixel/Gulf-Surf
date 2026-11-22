@@ -1,33 +1,37 @@
-GMZ853-222030-
+GMZ853-230815-
 Coastal waters from Englewood to Tarpon Springs FL out 20 NM-
-247 AM EST Sun Nov 22 2026
+206 PM EST Sun Nov 22 2026
 
-.TODAY...Northwest winds around 10 knots. Seas around 2 feet.
-Wave Detail: Northwest 2 feet at 4 seconds and south 2 feet at
-5 seconds. Bay and inland waters light chop. 
 .TONIGHT...North winds 5 to 10 knots. Seas around 2 feet. Wave
 Detail: Northwest 2 feet at 4 seconds and southwest 1 foot at
 5 seconds. Bay and inland waters light chop. 
-.MONDAY...North winds 5 to 10 knots. Seas 1 foot or less. Wave
-Detail: North 1 foot at 3 seconds and southwest 1 foot at
-5 seconds. Bay and inland waters light chop. 
-.MONDAY NIGHT...North winds around 10 knots. Seas 1 foot or less.
-Wave Detail: North 1 foot at 4 seconds and southwest 1 foot at
-4 seconds. Bay and inland waters light chop. 
+.MONDAY...North winds 5 to 10 knots. Seas around 2 feet in the
+morning, then 1 foot or less. Wave Detail: Northwest 1 foot at
+4 seconds and southwest 1 foot at 5 seconds, becoming southwest
+1 foot at 4 seconds and northwest 1 foot at 4 seconds. Bay and
+inland waters light chop. 
+.MONDAY NIGHT...Northeast winds 5 to 10 knots. Seas 1 foot or
+less. Wave Detail: Southwest 1 foot at 4 seconds and north 1 foot
+at 4 seconds. Bay and inland waters light chop. 
 .TUESDAY...Northeast winds around 10 knots. Seas 1 foot or less.
 Wave Detail: North 1 foot at 3 seconds. Bay and inland waters
 light chop. 
 .TUESDAY NIGHT...Northeast winds 10 to 15 knots. Seas around
-2 feet. Wave Detail: North 2 feet at 4 seconds. Bay and inland
-waters a moderate chop. Isolated showers in the evening, then
-scattered showers after midnight. 
-.WEDNESDAY...Northeast winds 10 to 15 knots. Seas around 2 feet.
-Bay and inland waters a moderate chop. Scattered showers, mainly
-in the morning. 
-.WEDNESDAY NIGHT...North winds 10 to 15 knots. Seas 2 to 3 feet.
-Bay and inland waters a moderate chop. Isolated showers in the
-evening. 
-.THURSDAY...Northwest winds 15 to 20 knots. Seas 3 to 5 feet,
-occasionally to 6 feet. Bay and inland waters choppy.
+2 feet. Wave Detail: North 2 feet at 3 seconds. Bay and inland
+waters a moderate chop. A chance of showers after midnight. 
+.WEDNESDAY...Northeast winds 10 to 15 knots, diminishing to 5 to
+10 knots in the afternoon. Seas around 2 feet. Wave Detail: North
+1 foot at 4 seconds. Bay and inland waters a moderate chop. A
+slight chance of showers in the morning. 
+.WEDNESDAY NIGHT...Northwest winds 10 to 15 knots. Seas around
+2 feet. Bay and inland waters a moderate chop. A slight chance of
+showers in the evening. 
+.THURSDAY...Northwest winds 15 to 20 knots. Seas 4 to 6 feet,
+occasionally to 8 feet. Bay and inland waters choppy. 
+.THURSDAY NIGHT...Northwest winds 15 to 20 knots, becoming north
+10 to 15 knots after midnight. Seas 4 to 6 feet, occasionally to
+8 feet. Bay and inland waters choppy. 
+.FRIDAY...North winds 10 to 15 knots. Seas 2 to 4 feet,
+occasionally to 5 feet. Bay and inland waters a moderate chop.
 
 $$
