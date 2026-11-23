@@ -1,45 +1,45 @@
-GMZ650-655-231000-
+GMZ650-655-240100-
 Coastal waters from Pensacola FL to Pascagoula MS out 20 NM-
 Coastal waters from Okaloosa Walton County Line FL to Pensacola
 FL out 20 NM-
-301 PM CST Sun Nov 22 2026
+617 AM CST Mon Nov 23 2026
 
-.TONIGHT...West winds around 5 knots. Seas 1 foot or less. 
-.MONDAY...North winds around 5 knots, becoming southwest in the
-afternoon. Seas 1 foot or less. A slight chance of showers and
-thunderstorms in the afternoon. 
-.MONDAY NIGHT...Northwest winds 10 to 15 knots, becoming
-northeast after midnight. Seas 1 foot or less, then around 2 feet
-after midnight. Wave Detail: North 2 feet at 3 seconds. A slight
-chance of thunderstorms. A chance of showers, mainly in the
-evening. 
-.TUESDAY...Northeast winds 10 to 15 knots. Seas around 2 feet.
-Wave Detail: Northeast 2 feet at 4 seconds. A slight chance of
-showers. A slight chance of thunderstorms in the afternoon. 
+.TODAY...East winds around 5 knots, becoming south late. Seas
+1 foot or less. A chance of showers early this afternoon. A
+chance of showers with a slight chance of thunderstorms late. 
+.TONIGHT...North winds 5 to 10 knots, becoming northeast 10 to
+15 knots with gusts up to 20 knots after midnight. Seas 1 foot or
+less, then around 2 feet after midnight. Wave Detail: Northeast
+1 foot at 2 seconds, becoming northeast 2 feet at 3 seconds. A
+slight chance of thunderstorms in the evening. A chance of
+showers. 
+.TUESDAY...Northeast winds 10 to 15 knots with gusts up to
+20 knots, diminishing to 5 to 10 knots in the afternoon. Seas
+around 2 feet. Wave Detail: Northeast 2 feet at 3 seconds. A
+chance of showers. 
 .TUESDAY NIGHT...Northeast winds 10 to 15 knots, becoming east
 15 to 20 knots after midnight. Seas 2 to 4 feet, occasionally to
-5 feet. Wave Detail: East 4 feet at 4 seconds. A slight chance of
-thunderstorms. A chance of showers in the evening, then showers
-likely after midnight. 
-.WEDNESDAY...Northeast winds 15 to 20 knots with gusts up to
-25 knots. Seas 3 to 5 feet, occasionally to 6 feet. Wave Detail:
-East 5 feet at 7 seconds. A slight chance of thunderstorms.
-Showers.
-.WEDNESDAY NIGHT...North winds 15 to 20 knots. Seas 3 to 5 feet,
-occasionally to 6 feet. Wave Detail: East 4 feet at 7 seconds and
-north 3 feet at 3 seconds. A slight chance of showers in the
-evening. 
-.THURSDAY...Northwest winds 15 to 20 knots. Seas 2 to 4 feet,
+5 feet. Wave Detail: East 4 feet at 5 seconds. A slight chance of
+showers in the evening, then a chance of showers with a slight
+chance of thunderstorms after midnight. 
+.WEDNESDAY...Northeast winds 20 to 25 knots. Seas 4 to 6 feet,
+occasionally to 8 feet. Wave Detail: East 6 feet at 6 seconds. A
+slight chance of thunderstorms. Showers.
+.WEDNESDAY NIGHT...North winds 20 to 25 knots. Seas 4 to 6 feet,
+occasionally to 8 feet. Wave Detail: East 6 feet at 7 seconds and
+north 3 feet at 4 seconds. A chance of showers with a slight
+chance of thunderstorms in the evening. 
+.THURSDAY...Northwest winds 15 to 20 knots. Seas 3 to 5 feet,
+occasionally to 6 feet. Wave Detail: Northwest 4 feet at
+4 seconds and east 2 feet at 6 seconds. 
+.THURSDAY NIGHT...North winds 15 to 20 knots. Seas 2 to 4 feet,
 occasionally to 5 feet. Wave Detail: Northwest 3 feet at
-4 seconds and east 2 feet at 5 seconds. 
-.THURSDAY NIGHT...North winds 10 to 15 knots. Seas around 2 feet.
-Wave Detail: Northwest 2 feet at 4 seconds. 
-.FRIDAY...North winds 10 to 15 knots, diminishing to 5 to
-10 knots in the afternoon. Seas around 2 feet in the morning,
-then 1 foot or less. Wave Detail: North 1 foot at 3 seconds. 
-.FRIDAY NIGHT...North winds 5 to 10 knots. Seas 1 foot or less,
-then around 2 feet after midnight. Wave Detail: North 1 foot at
-2 seconds. 
+4 seconds. 
+.FRIDAY...North winds 10 to 15 knots, becoming northwest 5 to
+10 knots in the afternoon. Seas 2 to 3 feet. Wave Detail:
+Northwest 2 feet at 4 seconds. 
+.FRIDAY NIGHT...Northwest winds 5 to 10 knots. Seas 1 foot or
+less. Wave Detail: Northwest 1 foot at 4 seconds. 
 
 Winds and seas higher in and near thunderstorms.
 
