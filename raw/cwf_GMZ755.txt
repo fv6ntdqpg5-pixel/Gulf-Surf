@@ -1,4 +1,4 @@
-GMZ751-752-755-770-772-775-251600-
+GMZ751-752-755-770-772-775-260815-
 Coastal waters from Mexico Beach to Okaloosa Walton County Line
 FL out 20 NM-
 Coastal waters from Mexico Beach to Apalachicola FL out 20 NM-
@@ -8,29 +8,28 @@ Waters from Mexico Beach to Okaloosa Walton County Line FL from
 20 to 60 NM-
 Waters from Apalachicola to Mexico Beach FL from 20 to 60 NM-
 Waters from  Suwannee River to Apalachicola FL from 20 to 60 NM-
-222 AM EST Wed Nov 25 2026 /122 AM CST Wed Nov 25 2026/
+205 PM EST Wed Nov 25 2026 /105 PM CST Wed Nov 25 2026/
 
 ...SMALL CRAFT ADVISORY IN EFFECT THROUGH THURSDAY EVENING...
 
-.TODAY...Northeast winds 20 to 25 knots, diminishing to 15 to
-20 knots this afternoon. Seas 4 to 6 feet, occasionally to
-8 feet. Wave Detail: Northeast 5 feet at 5 seconds. Protected
-waters rough. Showers and a slight chance of thunderstorms.
-.TONIGHT...North winds 15 to 20 knots, becoming northwest 20 to
-25 knots after midnight. Seas 4 to 6 feet, occasionally to
-8 feet. Wave Detail: West 4 feet at 5 seconds and northeast
-4 feet at 5 seconds. Protected waters rough. Showers with a
-slight chance of thunderstorms, mainly in the evening. 
-.THURSDAY...Northwest winds 20 to 25 knots with gusts up to
-30 knots. Seas 5 to 7 feet, occasionally to 9 feet, building to
-6 to 9 feet, occasionally to 11 feet in the afternoon. Wave
-Detail: West 7 feet at 7 seconds and northwest 4 feet at
-4 seconds, becoming west 8 feet at 8 seconds. Protected waters
-rough. 
-.THURSDAY NIGHT...West winds 20 to 25 knots, becoming northwest
-15 to 20 knots after midnight. Seas 5 to 8 feet, occasionally to
-10 feet. Wave Detail: West 8 feet at 8 seconds. Protected waters
-rough. 
+.TONIGHT...North winds 15 to 20 knots, becoming northwest with
+gusts up to 25 knots after midnight, then increasing to 20 to
+25 knots with gusts up to 30 knots late. Seas 3 to 5 feet,
+occasionally to 6 feet. Wave Detail: Northwest 5 feet at
+5 seconds and northeast 5 feet at 5 seconds. Protected waters
+rough. Showers this evening, then a chance of showers after
+midnight. A slight chance of showers late. 
+.THURSDAY...West winds 20 to 25 knots with gusts up to 30 knots.
+Seas 5 to 7 feet, occasionally to 9 feet, building to 6 to
+9 feet, occasionally to 11 feet in the afternoon. Wave Detail:
+West 7 feet at 7 seconds and east 2 feet at 5 seconds, becoming
+west 9 feet at 8 seconds and east 1 foot at 4 seconds. Protected
+waters rough. 
+.THURSDAY NIGHT...Northwest winds 20 to 25 knots with gusts up to
+30 knots. Seas 6 to 9 feet, occasionally to 11 feet, subsiding to
+5 to 7 feet, occasionally to 9 feet after midnight. Wave Detail:
+West 9 feet at 8 seconds, becoming west 7 feet at 8 seconds.
+Protected waters rough. 
 .FRIDAY...Northwest winds 15 to 20 knots. Seas 4 to 6 feet,
 occasionally to 8 feet. Wave Detail: West 6 feet at 7 seconds.
 Protected waters choppy. 
@@ -38,17 +37,26 @@ Protected waters choppy.
 Wave Detail: West 4 feet at 6 seconds. Protected waters a
 moderate chop. 
 .SATURDAY...North winds 5 to 10 knots, becoming east in the
-afternoon. Seas around 2 feet. Protected waters a light chop. 
-.SATURDAY NIGHT...Southeast winds 5 to 10 knots. Waves 1 foot or
-less, then around 2 feet after midnight. Protected waters a light
-chop. A slight chance of showers after midnight. 
-.SUNDAY...Southeast winds 15 to 20 knots. Seas 2 to 3 feet,
-building to 3 to 5 feet, occasionally to 6 feet in the afternoon.
-Protected waters choppy. A chance of showers with a slight chance
-of thunderstorms. 
-.SUNDAY NIGHT...South winds 15 to 20 knots. Seas 3 to 5 feet,
-occasionally to 6 feet. Protected waters choppy. Showers likely
-with a slight chance of thunderstorms. 
+afternoon. Seas around 2 feet. Wave Detail: West 2 feet at
+6 seconds. Protected waters a light chop. 
+.SATURDAY NIGHT...Southeast winds 5 to 10 knots, becoming south
+10 to 15 knots after midnight. Waves 1 foot or less, then around
+2 feet after midnight. Protected waters a moderate chop. 
+.SUNDAY...Southeast winds 15 to 20 knots, becoming south 20 to
+25 knots in the afternoon. Seas 3 to 5 feet, occasionally to
+6 feet. Protected waters rough. A slight chance of showers in the
+morning, then a chance of showers in the afternoon. 
+.SUNDAY NIGHT...South winds 20 to 25 knots, becoming southwest
+15 to 20 knots after midnight. Seas 5 to 7 feet, occasionally to
+9 feet. Protected waters rough. Showers likely with a slight
+chance of thunderstorms in the evening, then a chance of showers
+after midnight. 
+.MONDAY...North winds 15 to 20 knots, becoming northeast 10 to
+15 knots in the afternoon. Seas 3 to 5 feet, occasionally to
+6 feet. Protected waters choppy. A slight chance of showers. 
+.MONDAY NIGHT...Northeast winds around 10 knots. Seas 2 to
+3 feet. Protected waters a light chop. A slight chance of
+showers. 
 
 Winds and waves higher in and near thunderstorms.
 
