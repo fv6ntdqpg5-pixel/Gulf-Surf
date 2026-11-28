@@ -1,50 +1,54 @@
-GMZ650-655-281000-
+GMZ650-655-282200-
 Coastal waters from Pensacola FL to Pascagoula MS out 20 NM-
 Coastal waters from Okaloosa Walton County Line FL to Pensacola
 FL out 20 NM-
-302 PM CST Fri Nov 27 2026
+301 AM CST Sat Nov 28 2026
 
-.TONIGHT...West winds 10 to 15 knots, becoming northwest 5 to
-10 knots after midnight. Seas around 2 feet. Wave Detail: West
-2 feet at 5 seconds. 
-.SATURDAY...West winds around 5 knots, becoming southwest around
-5 knots in the afternoon. Seas 1 foot or less. Wave Detail: West
-1 foot at 4 seconds. 
-.SATURDAY NIGHT...South winds 5 to 10 knots, increasing to 10 to
+...SMALL CRAFT ADVISORY IN EFFECT FROM SUNDAY MORNING THROUGH
+MONDAY MORNING...
+
+.TODAY...West winds around 5 knots, becoming southwest this
+afternoon. Seas 1 foot or less. Wave Detail: West 1 foot at
+4 seconds. 
+.TONIGHT...South winds 5 to 10 knots, increasing to 10 to
 15 knots with gusts up to 20 knots after midnight. Seas 1 foot or
 less, then around 2 feet after midnight. Wave Detail: Southwest
-1 foot at 4 seconds, becoming south 2 feet at 4 seconds. 
+1 foot at 4 seconds, becoming south 2 feet at 3 seconds. 
 .SUNDAY...South winds 15 to 20 knots, becoming southwest 20 to
 25 knots in the afternoon. Seas 2 to 4 feet, occasionally to
 5 feet, building to 5 to 7 feet, occasionally to 9 feet in the
-afternoon. Wave Detail: South 4 feet at 5 seconds, becoming
-southwest 7 feet at 7 seconds. A chance of showers in the
-morning, then showers with a slight chance of thunderstorms in
-the afternoon. 
+afternoon. Wave Detail: South 4 feet at 5 seconds, becoming south
+7 feet at 7 seconds. A slight chance of showers in the morning,
+then showers with a slight chance of thunderstorms in the
+afternoon. 
 .SUNDAY NIGHT...West winds 20 to 25 knots, becoming north 15 to
-20 knots after midnight. Seas 5 to 7 feet, occasionally to
-9 feet. Wave Detail: Southwest 7 feet at 7 seconds. A chance of
-showers in the evening. 
-.MONDAY...Northeast winds 15 to 20 knots, diminishing to 10 to
-15 knots in the afternoon. Seas 2 to 4 feet, occasionally to
-5 feet. Wave Detail: Northeast 3 feet at 4 seconds and southwest
-3 feet at 7 seconds. 
+20 knots after midnight. Seas 5 to 8 feet, occasionally to
+10 feet, subsiding to 4 to 6 feet, occasionally to 8 feet after
+midnight. Wave Detail: Southwest 8 feet at 7 seconds, becoming
+southwest 6 feet at 7 seconds and northwest 3 feet at 3 seconds.
+A chance of showers in the evening. 
+.MONDAY...North winds 15 to 20 knots, diminishing to around
+10 knots in the afternoon. Seas 3 to 5 feet, occasionally to
+6 feet, subsiding to 2 to 3 feet in the afternoon. Wave Detail:
+Southwest 4 feet at 7 seconds and north 2 feet at 4 seconds,
+becoming northeast 2 feet at 3 seconds and southwest 2 feet at
+7 seconds. 
 .MONDAY NIGHT...Northeast winds around 10 knots. Seas around
-2 feet. Wave Detail: East 2 feet at 4 seconds and southwest
-1 foot at 6 seconds. 
+2 feet. Wave Detail: Northeast 1 foot at 3 seconds and west
+1 foot at 4 seconds. 
 .TUESDAY...Northeast winds 5 to 10 knots. Seas around 2 feet.
-Wave Detail: East 2 feet at 4 seconds and southwest 1 foot at
+Wave Detail: East 1 foot at 3 seconds and southwest 1 foot at
 7 seconds. 
-.TUESDAY NIGHT...East winds 5 to 10 knots. Seas 1 foot or less.
-Wave Detail: East 1 foot at 4 seconds and southwest 1 foot at
-7 seconds. 
-.WEDNESDAY...East winds 5 to 10 knots. Seas around 2 feet. Wave
-Detail: East 2 feet at 5 seconds and southwest 1 foot at
-7 seconds. 
+.TUESDAY NIGHT...East winds around 5 knots, increasing to 5 to
+10 knots after midnight. Seas 1 foot or less. Wave Detail: East
+1 foot at 4 seconds and southwest 1 foot at 7 seconds. 
+.WEDNESDAY...East winds 5 to 10 knots. Seas 1 foot or less, then
+around 2 feet in the afternoon. Wave Detail: East 1 foot at
+3 seconds and south 1 foot at 7 seconds, becoming east 1 foot at
+4 seconds and south 1 foot at 7 seconds. 
 .WEDNESDAY NIGHT...East winds 5 to 10 knots, becoming southeast
-10 to 15 knots after midnight. Seas around 2 feet in the evening,
-then 1 foot or less. Wave Detail: Southeast 2 feet at 5 seconds,
-becoming southeast 1 foot at 4 seconds. 
+10 to 15 knots after midnight. Seas 2 to 3 feet. Wave Detail:
+Southeast 3 feet at 5 seconds. 
 
 Winds and seas higher in and near thunderstorms.
 
